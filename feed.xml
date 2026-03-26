@@ -5,7 +5,7 @@
     <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
     <description>Curated daily summaries from top AI blogs and YouTube channels</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:14:13 +0000</lastBuildDate>
     <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Agentic Engineering: Warum Schnelligkeit allein gefaehrlich ist</title>
@@ -26,6 +26,26 @@ Di</description>
       <category>cognitive-debt</category>
     </item>
     <item>
+      <title>Schema Markup und AI-Suche: Was wirklich stimmt</title>
+      <link>https://searchengineland.com/schema-markup-ai-search-without-hype</link>
+      <description>## Kernaussagen
+- Behauptung &quot;Schema Markup verdreifacht AI-Zitationen&quot; ist uebertrieben
+- Die Evidenz ist deutlich nuancierter als der Hype suggeriert
+- Schema hilft bei Disambiguierung (wer/was/wo) — nicht als direkter Ranking-Faktor
+- Fuer AI-Suche ist Schema ein Hygienefaktor, kein Gamechanger
+- Wichtiger: Content-Qualitaet und Struktur schlagen technische Tricks
+
+## Relevanz fuer Marketing
+Wichtige Einordnung fuer B2B-Marketer die in AI-Optimierung investieren. Schema Markup ist sinnvoll al</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>schema</category>
+      <category>structured-data</category>
+      <category>ai-search</category>
+      <category>seo</category>
+      <category>technical</category>
+    </item>
+    <item>
       <title>OpenAI Model Spec: Wie AI-Verhalten definiert wird</title>
       <link>https://openai.com/index/our-approach-to-the-model-spec</link>
       <description>## Kernaussagen
@@ -42,6 +62,25 @@ Fuer B2B-Entscheider relevant: Vertrauen in AI-Tools haengt davon ab, wie transp
       <category>ai-safety</category>
       <category>trust</category>
       <category>transparency</category>
+    </item>
+    <item>
+      <title>OpenAI Codex 101: Vom Code-Modell zum vollstaendigen Coding-Agent</title>
+      <link>https://www.theneuron.ai</link>
+      <description>## Kernaussagen
+- Codex ist nicht nur ein Code-Modell — es ist ein vollstaendiger Agent
+- Kann Repos inspizieren, Befehle ausfuehren, Aenderungen reviewen, ueber mehrere Oberflaechen arbeiten
+- Schritt von &quot;AI schreibt Code&quot; zu &quot;AI baut Software eigenstaendig&quot;
+- Beginner-Guide zeigt wie Codex fuer grundlegende Aufgaben eingesetzt wird
+
+## Relevanz fuer Marketing
+Indirekt relevant: Coding-Agents wie Codex senken die Einstiegshuerde fuer technische Loesungen massiv. Marketing-Teams koennen kuenfti</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>openai</category>
+      <category>codex</category>
+      <category>agents</category>
+      <category>developer-tools</category>
+      <category>automation</category>
     </item>
     <item>
       <title>Vier CEOs ueber die Zukunft der AI: CoreWeave, Perplexity &amp; mehr</title>
@@ -82,6 +121,24 @@ Zeigt wohin AI-Tools sich entwickeln: Vom &quot;Ich frage, AI antwor</descriptio
       <category>developer-tools</category>
     </item>
     <item>
+      <title>Anthropic-Studie: Was 81.000 Menschen von AI wollen</title>
+      <link>https://www.anthropic.com/news</link>
+      <description>## Kernaussagen
+- Anthropic hat 81.000 Menschen befragt was sie von AI erwarten
+- Groesste Nutzerbefragung eines AI-Anbieters bisher
+- Fokus auf: Vertrauen, Transparenz, Kontrolle, Nuetzlichkeit
+- Zeigt Gap zwischen dem was AI-Unternehmen bauen und was Nutzer tatsaechlich wollen
+
+## Relevanz fuer Marketing
+Direkt relevant: Wenn 81.000 Menschen sagen was sie von AI erwarten, ist das eine Goldgrube fuer B2B-Positionierung. Vertrauen und Transparenz stehen ganz oben — genau das was viele AI-Marketi</description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Anthropic News</source>
+      <category>anthropic</category>
+      <category>user-research</category>
+      <category>ai-adoption</category>
+      <category>trust</category>
+    </item>
+    <item>
       <title>All-In Podcast: AI baut in Sekunden ein Custom CRM</title>
       <link>https://www.youtube.com/watch?v=U2O_Yg3Mjp8</link>
       <description>## Kernaussagen
@@ -101,6 +158,26 @@ Direkt relevant fuer Sales &amp; Marketing Teams: CRM-Systeme, Dashboards, Repor
       <category>all-in</category>
     </item>
     <item>
+      <title>Playbook: So schreibst du Content den AI-Suchmaschinen verstehen</title>
+      <link>https://searchengineland.com/how-to-write-for-ai-search-machine-readable-content</link>
+      <description>## Kernaussagen
+- Keyword-Stuffing ist endgueltig tot — AI-Suche arbeitet mit &quot;proposition-based retrieval&quot;
+- Content muss in eigenstaendigen, hochdichten Konzeptbloecken geschrieben werden
+- Jeder Absatz sollte eine klare Aussage enthalten die fuer sich allein stehen kann
+- AI-Crawler extrahieren Fakten, nicht Keywords — &quot;Grounding&quot; ist der neue Rankingfaktor
+- Praktisches Playbook fuer AI-freundliches Copywriting
+
+## Relevanz fuer Marketing
+Kern-Thema. Jeder B2B-Marketer der Content produziert</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-friendliness</category>
+      <category>content</category>
+      <category>seo</category>
+      <category>ai-search</category>
+      <category>copywriting</category>
+    </item>
+    <item>
       <title>AI Hype Index: Agents gehen viral, AI geht in den Krieg</title>
       <link>https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/</link>
       <description>## Kernaussagen
@@ -118,6 +195,26 @@ Zeigt den Zeitgeist: AI-Ag</description>
       <category>hype</category>
       <category>openai</category>
       <category>anthropic</category>
+    </item>
+    <item>
+      <title>Studie: Welche Content-Formate AI-Suchmaschinen am meisten zitieren</title>
+      <link>https://searchengineland.com/ai-citations-listicles-articles-product-pages-study</link>
+      <description>## Kernaussagen
+- Wix Studio AI Search Lab: 75.000 AI-Antworten und 1 Mio+ Zitationen analysiert (ChatGPT, Google AI Mode, Perplexity)
+- Listicles fuehren mit 21,9% aller Zitationen
+- Artikel: 16,7%, Produktseiten: 13,7%
+- Diese drei Formate machen 52% aller AI-Zitationen aus
+- Artikel dominieren bei informationellen Anfragen, Produktseiten bei transaktionalen
+
+## Relevanz fuer Marketing
+Harte Daten fuer Content-Strategie. Wer von AI-Suchmaschinen zitiert werden will, braucht: Listicles (Verglei</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-search</category>
+      <category>content-format</category>
+      <category>citations</category>
+      <category>data</category>
+      <category>study</category>
     </item>
     <item>
       <title>Agentic Commerce: Warum schlechte Daten AI-Agents killen</title>
