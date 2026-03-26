@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Content Hub</title>
+    <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
+    <description>Curated daily summaries from top AI blogs and YouTube channels</description>
+    <language>de</language>
+    <lastBuildDate>Thu, 26 Mar 2026 11:05:04 +0000</lastBuildDate>
+    <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agentic Engineering: Warum Schnelligkeit allein gefaehrlich ist</title>
+      <link>https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/</link>
+      <description>## Kernaussagen
+- Mario Zechner (Erfinder des Pi Agent Frameworks / OpenClaw): &quot;Wir haben jede Disziplin aufgegeben fuer eine Art Sucht — moeglichst viel Code in kuerzester Zeit&quot;
+- Agent-Fehler akkumulieren schneller als menschliche Fehler — kein Bottleneck mehr
+- &quot;Cognitive Debt&quot; ist real: Die Codebase entwickelt sich schneller als unsere Faehigkeit, sie zu verstehen
+- Empfehlung: Limits setzen fuer Agent-generierten Code, Architektur-Entscheidungen selbst treffen
+
+## Relevanz fuer Marketing
+Di</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Simon Willison</source>
+      <category>agents</category>
+      <category>engineering</category>
+      <category>strategy</category>
+      <category>cognitive-debt</category>
+    </item>
+    <item>
+      <title>OpenAI Model Spec: Wie AI-Verhalten definiert wird</title>
+      <link>https://openai.com/index/our-approach-to-the-model-spec</link>
+      <description>## Kernaussagen
+- OpenAI veroeffentlicht die &quot;Model Spec&quot; — ein oeffentliches Framework fuer AI-Verhalten
+- Balanciert Safety, User-Freiheit und Accountability
+- Definiert wie AI-Modelle sich in verschiedenen Szenarien verhalten sollen
+- Transparenz-Signal: OpenAI macht die Regeln oeffentlich, nach denen ChatGPT handelt
+
+## Relevanz fuer Marketing
+Fuer B2B-Entscheider relevant: Vertrauen in AI-Tools haengt davon ab, wie transparent die Anbieter sind. Wer AI im Marketing einsetzt, sollte verstehe</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>OpenAI Blog</source>
+      <category>openai</category>
+      <category>ai-safety</category>
+      <category>trust</category>
+      <category>transparency</category>
+    </item>
+    <item>
+      <title>Vier CEOs ueber die Zukunft der AI: CoreWeave, Perplexity &amp; mehr</title>
+      <link>https://www.youtube.com/watch?v=TODO</link>
+      <description>## Kernaussagen
+- CEOs von CoreWeave, Perplexity und zwei weiteren AI-Unternehmen diskutieren Infrastruktur, Skalierung und Geschaeftsmodelle
+- CoreWeave: GPU-Infrastruktur als Backbone der AI-Revolution, trotz Short-Seller-Kritik
+- Perplexity: Search wird komplett neu definiert — von Links zu Antworten
+- Gemeinsamer Tenor: Wir sind erst am Anfang, aber die Geschwindigkeit beschleunigt sich
+
+## Relevanz fuer Marketing
+Strategische Einordnung: Wenn die CEOs der AI-Infrastruktur-Unternehmen sagen </description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <source>All-In Podcast (YouTube)</source>
+      <category>perplexity</category>
+      <category>coreweave</category>
+      <category>infrastructure</category>
+      <category>strategy</category>
+      <category>ceo</category>
+    </item>
+    <item>
+      <title>Claude Code Auto Mode: AI-Agent mit eingebauten Sicherheitsschranken</title>
+      <link>https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/</link>
+      <description>## Kernaussagen
+- Anthropic launcht &quot;Auto Mode&quot; fuer Claude Code — AI trifft selbst Entscheidungen, mit Safeguards
+- Ein separates Classifier-Modell (Sonnet 4.6) prueft JEDE Aktion bevor sie ausgefuehrt wird
+- Blockiert: Scope-Eskalation, unbekannte Infrastruktur, feindliche Inhalte in Dateien
+- Detaillierte Allow/Deny-Listen: Test-Artifacts erlaubt, Git Force-Push blockiert, Dependencies nur aus Manifest
+
+## Relevanz fuer Marketing
+Zeigt wohin AI-Tools sich entwickeln: Vom &quot;Ich frage, AI antwor</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Simon Willison</source>
+      <category>anthropic</category>
+      <category>claude</category>
+      <category>agents</category>
+      <category>safety</category>
+      <category>developer-tools</category>
+    </item>
+    <item>
+      <title>All-In Podcast: AI baut in Sekunden ein Custom CRM</title>
+      <link>https://www.youtube.com/watch?v=U2O_Yg3Mjp8</link>
+      <description>## Kernaussagen
+- Live-Demo: AI-Agent baut ein vollstaendiges Custom CRM in wenigen Sekunden
+- Kein Code, kein Setup — nur natuerliche Sprache
+- Diskussion ueber die Zukunft von SaaS: Warum fertige Software kaufen wenn AI dir massgeschneiderte Tools baut?
+- Implikation: Standardsoftware wird durch AI-generierte, individuelle Loesungen ersetzt
+
+## Relevanz fuer Marketing
+Direkt relevant fuer Sales &amp; Marketing Teams: CRM-Systeme, Dashboards, Reporting-Tools — alles was heute Wochen dauert, kann AI</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>All-In Podcast (YouTube)</source>
+      <category>agents</category>
+      <category>crm</category>
+      <category>automation</category>
+      <category>sales</category>
+      <category>all-in</category>
+    </item>
+    <item>
+      <title>AI Hype Index: Agents gehen viral, AI geht in den Krieg</title>
+      <link>https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/</link>
+      <description>## Kernaussagen
+- OpenAI hat den OpenClaw-Entwickler eingestellt — AI-Agents die viral gehen sind das neue Recruiting-Tool
+- Meta kaufte Moltbook — AI-Agents die ueber Existenz philosophieren und neue Religionen erfinden
+- RentAHuman: Bots stellen Menschen ein um CBD-Gummis zu liefern — die Zukunft ist nicht &quot;AI nimmt deinen Job&quot; sondern &quot;AI wird dein Chef&quot;
+- Anthropic (Claude) im Konflikt mit Pentagon ueber Waffeneinsatz, OpenAI springt ein
+
+## Relevanz fuer Marketing
+Zeigt den Zeitgeist: AI-Ag</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>MIT Tech Review AI</source>
+      <category>agents</category>
+      <category>trends</category>
+      <category>hype</category>
+      <category>openai</category>
+      <category>anthropic</category>
+    </item>
+    <item>
+      <title>Agentic Commerce: Warum schlechte Daten AI-Agents killen</title>
+      <link>https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/</link>
+      <description>## Kernaussagen
+- Agentic Commerce fuegt dem Markt einen dritten Teilnehmer hinzu: den AI-Agent, der im Auftrag des Kaeufers handelt
+- &quot;Good enough&quot; Daten reichen nicht mehr — Agents brauchen nahezu perfekte Daten, weil kein Mensch mehr gegencheckt
+- Master Data Management (MDM) wird zur Vertrauensschicht: Wer ist der Agent? Was darf er? Wer haftet?
+- Beispiel: Ein Agent muss wissen ob &quot;Delta&quot; die Airline oder der Wasserhahn-Hersteller ist — Menschen koennen das, Agents nicht
+
+## Relevanz fuer M</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <source>MIT Tech Review AI</source>
+      <category>agents</category>
+      <category>commerce</category>
+      <category>data-quality</category>
+      <category>b2b</category>
+    </item>
+  </channel>
+</rss>

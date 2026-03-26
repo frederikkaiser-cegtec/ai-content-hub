@@ -1,0 +1,92 @@
+# AI Content Hub — Source Configuration
+
+rss_feeds:
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    tags: [openai, chatgpt]
+
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    tags: [google, deepmind]
+
+  - name: Google AI (Gemini)
+    url: https://blog.google/technology/ai/rss/
+    tags: [google, gemini]
+
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    tags: [ai-friendliness, llms-txt, agents]
+
+  - name: Stratechery
+    url: https://stratechery.com/feed/
+    tags: [strategy, analysis]
+
+  - name: a16z
+    url: https://www.a16z.news/feed
+    tags: [vc, strategy, startups]
+
+  - name: MIT Tech Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+    tags: [research, trends]
+
+  - name: The Neuron
+    url: https://www.theneuron.ai/feed
+    tags: [newsletter, trends]
+
+  - name: The Rundown AI
+    url: https://www.therundown.ai/feed
+    tags: [newsletter, tools]
+
+  - name: Search Engine Land
+    url: https://searchengineland.com/feed
+    tags: [seo, ai-overviews, search]
+
+website_sources:
+  - name: Anthropic News
+    url: https://www.anthropic.com/news
+    tags: [anthropic, claude]
+
+  - name: Perplexity Blog
+    url: https://www.perplexity.ai/hub/blog
+    tags: [perplexity, search]
+
+youtube_channels:
+  - name: Matt Wolfe
+    channel_id: UCgBVkKoOAr3ajSdFFLp13_A
+    tags: [tools, trends]
+
+  - name: Wes Roth
+    channel_id: UC0SBjkDFnkRG9WGquOPKLaQ
+    tags: [business, strategy]
+
+  - name: David Shapiro
+    channel_id: UCnMZoIc0r5YKIGY7VQrBZgQ
+    tags: [agi, strategy]
+
+  - name: Marketing AI Institute
+    channel_id: UCwUJkYShfbLmB_Lf1xBfKEg
+    tags: [marketing, ai]
+
+  - name: The AI Advantage
+    channel_id: UCjq4Gm9CJwXMhKBAEklqNw
+    tags: [tutorials, tools]
+
+  - name: AI Jason
+    channel_id: UCfqJckVdGkBPBLMwCBCYkg0
+    tags: [products, experiments]
+
+  - name: Fireship
+    channel_id: UCsBjURrPoezykLs9EqgamOA
+    tags: [dev, tech]
+
+  - name: Greg Isenberg
+    channel_id: UCi7dmctfAX0Y8IKRjkjeCuw
+    tags: [startups, growth]
+
+  - name: Lenny Rachitsky
+    channel_id: UCmGBhFMFROSrKJKozjRCMVA
+    tags: [product, growth]
+
+  - name: All-In Podcast
+    channel_id: UCESLZhusAkFfsNsApnjF_Cg
+    tags: [tech, business, macro]

@@ -1,0 +1,22 @@
+title: AI Content Hub
+description: Curated daily summaries from top AI blogs & YouTube channels
+url: https://frederikkaiser-cegtec.github.io
+baseurl: /ai-content-hub
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: post
+
+feed:
+  path: feed.xml
