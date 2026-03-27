@@ -5,8 +5,181 @@
     <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
     <description>Curated daily summaries from top AI blogs and YouTube channels</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:08:53 +0000</lastBuildDate>
     <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google erweitert Structured Data: Neue Signale fuer AI-generierte Inhalte und Diskussionen</title>
+      <link>https://searchengineland.com/google-structured-data-forum-qa-content-update-472574</link>
+      <description>## Kernaussagen
+- Google erweitert QAPage und DiscussionForumPosting um neue Properties
+- digitalSourceType signalisiert, ob Inhalte von AI (TrainedAlgorithmicMediaDigitalSource) oder Menschen stammen
+- commentCount und sharedContent verbessern die Darstellung von Threads und Zitaten
+- Ohne Kennzeichnung nimmt Google an, dass Inhalte menschlich erstellt sind
+- Aenderung betrifft Foren, Support-Communities, UGC-Plattformen und Q&amp;A-Bereiche
+
+## Relevanz fuer Marketing
+Die Unterscheidung zwischen m</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>structured-data</category>
+      <category>schema-markup</category>
+      <category>ai-friendliness</category>
+      <category>forum-seo</category>
+      <category>content-kennzeichnung</category>
+    </item>
+    <item>
+      <title>Google Search Live geht global: AI-Suche per Sprache in 200+ Laendern</title>
+      <link>https://searchengineland.com/google-search-live-expands-globally-where-ai-mode-is-available-472706</link>
+      <description>## Kernaussagen
+- Google Search Live ist ab sofort weltweit verfuegbar, ueberall wo AI Mode aktiv ist — ueber 200 Laender und Territorien
+- Angetrieben vom neuen Gemini 3.1 Flash Live Modell mit natuerlicherer, multilingualer Sprachinteraktion
+- Nutzer koennen per Kamera visuellen Kontext hinzufuegen und Folgefragen stellen
+- Antworten enthalten zwar Quellen-Links, aber die Wahrscheinlichkeit von Klicks sinkt drastisch
+- Suchverhalten verschiebt sich von getippten Queries zu gesprochenen AI-Konv</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-search</category>
+      <category>google</category>
+      <category>voice-search</category>
+      <category>ai-mode</category>
+      <category>globalisierung</category>
+    </item>
+    <item>
+      <title>Google schickt mehr AI in einem Tag als andere in einem Quartal — der Plattformkrieg ist eroeffnet</title>
+      <link>https://www.theneuron.ai/explainer-articles/google-shipped-more-ai-in-one-day-than-most-companies-ship-in-a-quarter-heres-what-it-all-means-/</link>
+      <description>## Kernaussagen
+- Google launchte an einem Tag: bestes Voice-Modell, Search Live global, Import bestehender AI-Daten in Gemini
+- Apple oeffnete Siri gleichzeitig fuer alle AI-Anbieter — direkter Gegenangriff
+- Der Plattformkrieg um den AI-Assistenten des Nutzers ist offiziell gestartet
+- Google setzt auf tiefe Integration ins eigene Oekosystem, Apple auf Offenheit
+- Wer den Default-Assistenten kontrolliert, kontrolliert die Entdeckung von Inhalten und Services
+
+## Relevanz fuer Marketing
+Der Kam</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>google</category>
+      <category>apple</category>
+      <category>ai-assistants</category>
+      <category>plattform-strategie</category>
+      <category>search-live</category>
+    </item>
+    <item>
+      <title>Google-Agent: Neuer User Agent macht AI-Agent-Traffic in Server-Logs sichtbar</title>
+      <link>https://searchengineland.com/google-agent-user-agent-472674</link>
+      <description>## Kernaussagen
+- Google fuehrt den User Agent &quot;Google-Agent&quot; ein, der AI-Agent-Zugriffe identifiziert
+- Unterschied zu Googlebot: Google-Agent handelt nur auf direkte Nutzeranfragen, nicht automatisch
+- Einsatz bei experimentellen Tools wie Project Mariner — Agents browsen, bewerten und fuellen Formulare aus
+- IP-Ranges fuer Desktop und Mobile sind veroeffentlicht
+- Rollout laeuft ueber die naechsten Wochen schrittweise
+
+## Relevanz fuer Marketing
+Erstmals koennen Marketer und Webmaster AI-Agen</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>google-agent</category>
+      <category>ai-crawling</category>
+      <category>ai-friendliness</category>
+      <category>agentic-search</category>
+      <category>server-logs</category>
+    </item>
+    <item>
+      <title>First-Party Data als Content-Goldgrube: 5 interne Quellen, die Dein Wettbewerber nicht hat</title>
+      <link>https://searchengineland.com/how-to-use-first-party-data-to-find-high-impact-content-ideas-472500</link>
+      <description>## Kernaussagen
+- Alle nutzen dieselben SEO-Tools — das fuehrt zu einer Content-Echokammer mit austauschbaren Inhalten
+- 5 Goldgruben fuer proprietaere Content-Ideen: Site-Search, Sales-Calls, CRM-Daten, Support-Tickets, E-Mail-Replies
+- First-Party Data ist vertraulich, real und hat keinen Wettbewerbs-Overlap
+- Die exakte Sprache von Kunden in Sales-Calls liefert bessere Keywords als jedes Tool
+- Support-Tickets zeigen Content-Luecken, die direkt auf Conversion einzahlen
+
+## Relevanz fuer Marke</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>content-strategie</category>
+      <category>first-party-data</category>
+      <category>b2b-marketing</category>
+      <category>seo</category>
+      <category>differenzierung</category>
+    </item>
+    <item>
+      <title>10 Wege, Codex zu nutzen — ohne eine Zeile Code zu schreiben</title>
+      <link>https://www.theneuron.ai/explainer-articles/10-ways-to-use-codex-that-have-nothing-to-do-with-coding/</link>
+      <description>## Kernaussagen
+- OpenAI Codex ist laengst kein reines Developer-Tool mehr
+- Einsatzgebiete: Drafts schreiben, Projektplaene erstellen, wiederkehrende Automationen bauen
+- Reusable Skills machen Codex zu einem persoenlichen Automations-Layer
+- Besonders stark fuer Non-Engineers, die weniger Busywork und mehr Hebelwirkung wollen
+- Die Grenze zwischen &quot;Coding-Tool&quot; und &quot;Produktivitaets-Agent&quot; verschwimmt
+
+## Relevanz fuer Marketing
+Marketing-Teams koennen Codex nutzen, um repetitive Aufgaben wie R</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>codex</category>
+      <category>ai-tools</category>
+      <category>produktivitaet</category>
+      <category>marketing-automation</category>
+      <category>agents</category>
+    </item>
+    <item>
+      <title>Automatisierter Traffic waechst 8x schneller als menschlicher — was das fuer Content bedeutet</title>
+      <link>https://searchengineland.com/automated-traffic-growing-faster-than-human-traffic-report-472681</link>
+      <description>## Kernaussagen
+- Automatisierter Traffic wuchs 2025 um 23,5% YoY — 8x schneller als menschlicher Traffic (+3,1%)
+- AI-getriebener Traffic stieg um 187% im Monatsschnitt, Agent-Traffic um fast 8.000%
+- 77% der Agent-Aktivitaet findet auf Produkt- und Suchseiten statt
+- AI-Agents navigieren Funnels, loggen sich ein und fuehren Transaktionen durch
+- Cloudflare-CEO prognostiziert: Bots koennten menschliche Web-Nutzung bis 2027 uebertreffen
+
+## Relevanz fuer Marketing
+Content-Optimierung bedeutet ni</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-traffic</category>
+      <category>agents</category>
+      <category>ai-search</category>
+      <category>content-strategie</category>
+      <category>ai-friendliness</category>
+    </item>
+    <item>
+      <title>Die Trust Wall: Warum Vertrauen der groesste Wachstumshebel fuer AI wird</title>
+      <link>https://www.a16z.news/p/the-sovereign-wall-why-ais-next-billion</link>
+      <description>## Kernaussagen
+- Die naechste Milliarde AI-Nutzer kommt nur ueber Vertrauens-Netzwerke, nicht ueber reine Feature-Ueberlegenheit
+- &quot;Trust Tax&quot; — lokale Partner und kulturelle Uebersetzer muessen das Risiko absorbieren, bevor Nutzer sich engagieren
+- Institutionelles Vertrauen und kulturelle Erlaubnis sind untrennbar vom Produkt selbst
+- Eine einzige wahrgenommene Vertrauensverletzung kann massenhafte Nutzermigration ausloesen
+- Google setzt auf Embedded Trust via bestehendes Oekosystem, waehren</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>a16z</source>
+      <category>ai-trust</category>
+      <category>globalisierung</category>
+      <category>growth-strategie</category>
+      <category>b2b</category>
+      <category>adoption</category>
+    </item>
+    <item>
+      <title>Agent-Native werden: Was Dan Shipper ueber Vibe Coding und Agent-Architektur gelernt hat</title>
+      <link>https://www.theneuron.ai/the-neuron-ai-explained-podcast/how-to-become-agent-native-dan-shipper-built-a-viral-app-between-meetings-then-it-broke-heres-what-he-learned/</link>
+      <description>## Kernaussagen
+- Dan Shipper (CEO Every) baute eine virale App zwischen Meetings — die dann zusammenbrach
+- &quot;Agent-native&quot; Architektur erfordert andere Design-Prinzipien als klassische Software
+- Compound Engineering: AI-Agents schichten sich auf, Fehler potenzieren sich
+- Vibe Coding erzeugt schnelle Ergebnisse, aber technische Schulden akkumulieren unsichtbar
+- Der Uebergang von Prototyp zu Produkt braucht bewusste Architektur-Entscheidungen
+
+## Relevanz fuer Marketing
+Marketer, die AI-Tools </description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>agents</category>
+      <category>vibe-coding</category>
+      <category>architektur</category>
+      <category>product-development</category>
+      <category>content-strategie</category>
+    </item>
     <item>
       <title>Agentic Engineering: Warum Schnelligkeit allein gefaehrlich ist</title>
       <link>https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/</link>
