@@ -5,7 +5,7 @@
     <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
     <description>Curated daily summaries from top AI blogs and YouTube channels</description>
     <language>de</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:41:18 +0000</lastBuildDate>
     <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic investiert 100 Mio. in Partner-Netzwerk: Was das fuer B2B-Dienstleister bedeutet</title>
@@ -29,25 +29,23 @@ Das ist</description>
       <category>strategie</category>
     </item>
     <item>
-      <title>Claude Opus 4.6: Anthropics staerkstes Modell und was es fuer Business-Automatisierung bedeutet</title>
+      <title>Claude Opus 4.6: Anthropics staerkstes Modell und was es fuer AI-Tools bedeutet</title>
       <link>https://www.anthropic.com/news/claude-opus-4-6</link>
       <description>## Kernaussagen
-- Claude Opus 4.6 ist Anthropics neues Flagship-Modell mit 1M Token Kontext-Fenster
-- Staerkste Benchmarks bei agentic Coding (Terminal-Bench 2.0), Wissensarbeit (144 Elo ueber GPT-5.2) und Long-Context Tasks
-- Neue Features: Agent Teams in Claude Code, Context Compaction, adaptive Extended Reasoning
-- Effort Controls (low/medium/high/max) erlauben Kosten-Intelligenz-Tradeoff
-- Pricing: $5/$25 pro Million Tokens (Standard), Premium ab 200k+ Tokens
+- Anthropic veroeffentlicht Claude Opus 4.6 — das leistungsfaehigste Modell der Claude-Familie
+- Teil der Claude 4.5/4.6 Generation mit erweitertem Kontext (1M Tokens)
+- Verfuegbar in Claude Code CLI, Desktop App, Web App und IDE-Extensions
+- Positioniert sich als direkter Konkurrent zu GPT-5 und Gemini Ultra
+- Anthropic setzt weiter auf Safety-First-Ansatz parallel zur Leistungssteigerung
 
 ## Relevanz fuer Marketing
-Fuer</description>
+Fuer B2B-Teams die AI-Tools fuer Content, Analyse und Outreach </description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <source>Anthropic News</source>
       <category>anthropic</category>
       <category>claude</category>
       <category>ai-modelle</category>
-      <category>coding</category>
-      <category>agents</category>
-      <category>automatisierung</category>
+      <category>produktivitaet</category>
     </item>
     <item>
       <title>Claude Mythos geleakt: Warum Cybersecurity-Aktien einbrechen und was das fuer KI-Strategen bedeutet</title>
@@ -65,6 +63,42 @@ Fuer</description>
       <category>cybersecurity</category>
       <category>ai-modelle</category>
       <category>strategie</category>
+    </item>
+    <item>
+      <title>Claude Mythos geleakt — und Cybersecurity-Aktien stuerzen ab</title>
+      <link>https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/</link>
+      <description>## Kernaussagen
+- Anthropic hat versehentlich Details zu &quot;Claude Mythos&quot; geleakt — einem kommenden Modell oder Feature
+- Cybersecurity-Aktien reagierten mit deutlichen Kursverlusten
+- Der Leak deutet auf erweiterte AI-Capabilities hin die traditionelle Security-Ansaetze herausfordern
+- Zeigt wie stark AI-Ankuendigungen inzwischen ganze Branchen-Bewertungen beeinflussen
+- Die AI-Branche bewegt sich schneller als Maerkte reagieren koennen
+
+## Relevanz fuer Marketing
+AI-Entwicklungen haben Ripple-E</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>anthropic</category>
+      <category>claude</category>
+      <category>cybersecurity</category>
+      <category>ai-industry</category>
+      <category>trends</category>
+    </item>
+    <item>
+      <title>AI Max fuer Google Ads: Was 50+ Accounts wirklich zeigen</title>
+      <link>https://searchengineland.com/heidi-sturrock-shares-how-a-costly-mistake-became-a-competitive-advantage-472865</link>
+      <description>## Kernaussagen
+- Heidi Sturrock hat AI Max in ueber 50 Accounts getestet: ~2/3 positive Ergebnisse, ~1/3 underperforming
+- Underperformance meist durch zu wenig historische Conversion-Daten — der Algorithmus braucht Futter
+- Haeufigster Audit-Fehler: Attribution-Windows passen nicht zum tatsaechlichen Sales Cycle (besonders bei High-Ticket B2B)
+- Zweiter Fehler: Fixierung auf sekundaere KPIs (CPC, CTR) statt auf das vereinbarte Hauptziel (ROAS)
+- Steigender CPC ist kein Problem wenn der ROAS st</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>google-ads</category>
+      <category>ai-max</category>
+      <category>ppc</category>
+      <category>b2b-marketing</category>
     </item>
     <item>
       <title>AI Max im Praxistest: Erkenntnisse aus 50+ Google Ads Accounts fuer B2B</title>
@@ -99,6 +133,22 @@ Fuer</description>
       <category>architektur</category>
       <category>strategie</category>
       <category>ai-adoption</category>
+    </item>
+    <item>
+      <title>Agentic Coding veraendert alles — aber Architektur bleibt Koenig</title>
+      <link>https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</link>
+      <description>## Kernaussagen
+- AI Agents &quot;zermahlen Probleme zu Staub&quot; — mit genug Tokens und einer While-Schleife loesen sie fast alles
+- Aber: Brute-Force-Loesungen sind nicht wartbar, nicht composable und nicht skalierbar
+- Der Schluessel liegt in guter Architektur: Libraries mit sauberen Interfaces, die den &quot;richtigen Weg&quot; zum einfachen Weg machen
+- Matt Webb beschreibt einen Paradigmenwechsel: Weniger auf einzelne Code-Zeilen schauen, mehr ueber Architektur nachdenken
+- &quot;Vibe Coding&quot; ist nicht gleich &quot;k</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Simon Willison</source>
+      <category>ai-agents</category>
+      <category>vibe-coding</category>
+      <category>architektur</category>
+      <category>strategie</category>
     </item>
     <item>
       <title>Vibe-Porting: JSONata in 7 Stunden mit AI neu geschrieben — 500K Dollar gespart</title>
