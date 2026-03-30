@@ -5,8 +5,101 @@
     <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
     <description>Curated daily summaries from top AI blogs and YouTube channels</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:54:18 +0000</lastBuildDate>
     <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic investiert 100 Mio. in Partner-Netzwerk: Was das fuer B2B-Dienstleister bedeutet</title>
+      <link>https://www.anthropic.com/news/claude-partner-network</link>
+      <description>## Kernaussagen
+- Anthropic startet das Claude Partner Network mit $100 Mio. Budget fuer 2026
+- Partner erhalten: Anthropic Academy Training, Sales Playbooks, technische Zertifizierungen (Claude Certified Architect)
+- Code Modernization Starter Kit fuer Legacy-Migration inklusive
+- Grosse Partner bereits an Bord: Accenture (30.000 Mitarbeiter trainiert), Deloitte, Cognizant, Infosys
+- Kostenlose Mitgliedschaft mit sofortigem Zugang zu Investment-Moeglichkeiten
+
+## Relevanz fuer Marketing
+Das ist</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Anthropic News</source>
+      <category>anthropic</category>
+      <category>claude</category>
+      <category>b2b</category>
+      <category>partner</category>
+      <category>enterprise</category>
+      <category>strategie</category>
+    </item>
+    <item>
+      <title>Claude Opus 4.6: Anthropics staerkstes Modell und was es fuer Business-Automatisierung bedeutet</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
+      <description>## Kernaussagen
+- Claude Opus 4.6 ist Anthropics neues Flagship-Modell mit 1M Token Kontext-Fenster
+- Staerkste Benchmarks bei agentic Coding (Terminal-Bench 2.0), Wissensarbeit (144 Elo ueber GPT-5.2) und Long-Context Tasks
+- Neue Features: Agent Teams in Claude Code, Context Compaction, adaptive Extended Reasoning
+- Effort Controls (low/medium/high/max) erlauben Kosten-Intelligenz-Tradeoff
+- Pricing: $5/$25 pro Million Tokens (Standard), Premium ab 200k+ Tokens
+
+## Relevanz fuer Marketing
+Fuer</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Anthropic News</source>
+      <category>anthropic</category>
+      <category>claude</category>
+      <category>ai-modelle</category>
+      <category>coding</category>
+      <category>agents</category>
+      <category>automatisierung</category>
+    </item>
+    <item>
+      <title>Claude Mythos geleakt: Warum Cybersecurity-Aktien einbrechen und was das fuer KI-Strategen bedeutet</title>
+      <link>https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/</link>
+      <description>## Kernaussagen
+- Anthropics naechstes Modell &quot;Claude Mythos&quot; (Codename Capybara) wurde durch eine CMS-Fehlkonfiguration geleakt — fast 3.000 interne Dokumente waren oeffentlich zugaenglich
+- Mythos soll in Coding, Reasoning und Cybersecurity &quot;dramatisch besser&quot; als Opus 4.6 performen
+- Anthropic selbst warnt: Das Modell ist extrem teuer zu betreiben — droht ein &quot;Pay-to-Win&quot;-KI-Markt
+- Cybersecurity-Aktien fielen 3-7% nach Bekanntwerden des Leaks
+- Die Luecke zwischen KI-Angreifern und menschlic</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>anthropic</category>
+      <category>claude</category>
+      <category>cybersecurity</category>
+      <category>ai-modelle</category>
+      <category>strategie</category>
+    </item>
+    <item>
+      <title>AI Max im Praxistest: Erkenntnisse aus 50+ Google Ads Accounts fuer B2B</title>
+      <link>https://searchengineland.com/heidi-sturrock-shares-how-a-costly-mistake-became-a-competitive-advantage-472865</link>
+      <description>## Kernaussagen
+- PPC-Expertin Heidi Sturrock hat AI Max fuer Google Ads in ueber 50 Accounts getestet
+- Ergebnis: Zwei Drittel zeigen starke Performance, ein Drittel underperformt — meist wegen zu wenig historischer Daten
+- Haeufigste Audit-Fehler: Attributionsfenster passen nicht zum Sales Cycle, Fokus auf sekundaere KPIs (CPC/CTR) statt primaerer Ziele (ROAS)
+- Praxis-Lesson: Hoeherer CPC ist kein Problem, wenn der Algorithmus dafuer in High-Intent-Auktionen bietet
+- Fehler-Management: Sofort</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>google-ads</category>
+      <category>ppc</category>
+      <category>ai-max</category>
+      <category>b2b-marketing</category>
+      <category>automatisierung</category>
+    </item>
+    <item>
+      <title>Agentic Coding veraendert alles — warum Architektur-Denken wichtiger wird als Code schreiben</title>
+      <link>https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</link>
+      <description>## Kernaussagen
+- Matt Webb (Tech-Architekt): KI-Agents loesen jedes Problem durch Brute Force — sie &quot;schleifen Probleme zu Staub&quot;
+- Das reicht aber nicht: Code muss wartbar, adaptiv und komponierbar sein
+- Erkenntnis: &quot;Ich schaue weniger auf Code als je zuvor und denke mehr ueber Architektur nach als je zuvor&quot;
+- Der echte Wert liegt in Libraries mit guten Interfaces, die den richtigen Weg zum einfachen Weg machen
+- Vibe Coding (nicht Coding, nicht Vibe Coding) verschiebt den Skill von Implement</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Simon Willison</source>
+      <category>agents</category>
+      <category>coding</category>
+      <category>architektur</category>
+      <category>strategie</category>
+      <category>ai-adoption</category>
+    </item>
     <item>
       <title>Vibe-Porting: JSONata in 7 Stunden mit AI neu geschrieben — 500K Dollar gespart</title>
       <link>https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</link>
