@@ -5,8 +5,152 @@
     <link>https://frederikkaiser-cegtec.github.io/ai-content-hub</link>
     <description>Curated daily summaries from top AI blogs and YouTube channels</description>
     <language>de</language>
-    <lastBuildDate>Mon, 30 Mar 2026 09:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 09:51:54 +0000</lastBuildDate>
     <atom:link href="https://frederikkaiser-cegtec.github.io/ai-content-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trace2Skill: Warum sich AI Agents durch bessere Playbooks verbessern, nicht durch bessere Modelle</title>
+      <link>https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/</link>
+      <description>## Kernaussagen
+- Trace2Skill zeigt, dass der naechste Sprung bei AI Agents nicht von besseren Base Models kommt, sondern von besseren operativen Playbooks
+- Agents lernen aus ihren eigenen Ausfuehrungsspuren (Traces) und verbessern ihre Playbooks automatisch
+- Das Konzept verschiebt den Fokus von &quot;welches Modell&quot; zu &quot;welcher Prozess&quot; — Operations statt Model-Shopping
+- Fuer Unternehmen bedeutet das: Agent-Systeme werden durch Nutzung besser, nicht durch Updates
+- Self-Improving Playbooks koennt</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>playbooks</category>
+      <category>agent-ops</category>
+    </item>
+    <item>
+      <title>Reddit Pro ist jetzt offen: Ein neuer Content-Distributionskanal fuer Publisher</title>
+      <link>https://searchengineland.com/reddit-pro-new-features-public-beta-472991</link>
+      <description>## Kernaussagen
+- Reddit Pro ist ab sofort fuer alle Publisher verfuegbar (vorher Waitlist)
+- Features: Content-Tracking ueber Subreddits, RSS-Auto-Import, AI-Community-Empfehlungen
+- Fruehe Tester sahen +46% Post Views, fast doppelte Profil-Views und +48% Comments
+- 55 Milliarden Views von publisher-bezogenen Gespraechen auf Reddit in 2025
+- Neue Community Snapshots und Notes helfen bei strategischem Community-Management
+
+## Relevanz fuer Marketing
+Reddit wird als Distributionskanal massiv unte</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>content-distribution</category>
+      <category>reddit</category>
+      <category>publisher-tools</category>
+      <category>content-strategie</category>
+    </item>
+    <item>
+      <title>Warum Full-Funnel-Optimierung bei langen Sales Cycles nach hinten losgeht</title>
+      <link>https://searchengineland.com/paid-media-optimization-long-sales-cycles-472893</link>
+      <description>## Kernaussagen
+- Standard-Ratschlag &quot;optimiere den ganzen Funnel bis zum Sale&quot; funktioniert nicht bei langen Sales Cycles
+- Nach Lead-Capture haengt Conversion hauptsaechlich von der Sales-Team-Performance ab, nicht von Ad-Targeting
+- Wenn ein Top-Closer im Urlaub ist, interpretiert der Algorithmus das als Targeting-Problem und optimiert weg
+- Saisonale Schwankungen, Team-Aenderungen und Response-Zeiten verzerren Conversion-Daten massiv
+- Empfehlung: Kampagnen nur bis zum Lead/MQL optimieren, n</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>b2b-marketing</category>
+      <category>paid-media</category>
+      <category>sales-cycle</category>
+      <category>performance-marketing</category>
+      <category>attribution</category>
+    </item>
+    <item>
+      <title>TurboQuant: Googles neuer Algorithmus macht AI-Search schneller und breiter</title>
+      <link>https://searchengineland.com/google-turboquant-algorithm-vector-search-472977</link>
+      <description>## Kernaussagen
+- TurboQuant ist ein neuer Kompressionsalgorithmus von Google fuer Vector Search
+- Reduziert Speicherbedarf massiv bei nahezu null Indexierungszeit
+- Ermoeglicht Google, deutlich mehr Dokumente pro Query auszuwerten — nicht nur ein kleines Subset
+- AI Overviews koennten kuenftig aus einer breiteren, praeziseren Quellenbasis generiert werden
+- Kombination aus smarter Kompression und 1-Bit-Fehlerkorrektur haelt Genauigkeit hoch
+
+## Relevanz fuer Marketing
+Wenn Google mehr Quellen p</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-search</category>
+      <category>google</category>
+      <category>vector-search</category>
+      <category>ai-overviews</category>
+      <category>seo</category>
+    </item>
+    <item>
+      <title>FAQs sind der neue SEO-Hebel: Wie AI-Search lokale Antworten generiert</title>
+      <link>https://searchengineland.com/how-to-build-faqs-that-power-ai-driven-local-search-472773</link>
+      <description>## Kernaussagen
+- Google Maps hat &quot;Ask Maps about this place&quot; — AI beantwortet Nutzerfragen direkt, wenn genug Infos vorhanden sind
+- Merchant Center&apos;s neuer &quot;Business Agent&quot; laesst Nutzer mit Marken chatten, basierend auf Website-Inhalten
+- Klassische FAQ-Seiten aus SEO-Tools reichen nicht — AI braucht standortspezifische, kundenrelevante Fragen
+- Konsistenz ueber alle Plattformen (Website, GBP, Yelp, Social) ist entscheidend fuer AI-Antworten
+- Wer keine strukturierten Antworten liefert, wird </description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-search</category>
+      <category>seo</category>
+      <category>local-search</category>
+      <category>ai-visibility</category>
+      <category>faqs</category>
+    </item>
+    <item>
+      <title>Custom GPTs fuer B2B-Teams: Warum 99% scheitern und wie die 1% gebaut werden</title>
+      <link>https://searchengineland.com/build-custom-gpt-472870</link>
+      <description>## Kernaussagen
+- Von 3 Mio+ Custom GPTs im GPT Store werden die meisten nie regelmaessig genutzt
+- Erfolgsrezept: Ein GPT = ein Job, fuer eine Rolle, mit einer Methode (One-Sentence-Test)
+- Knowledge Files muessen kuratiert sein (1-2 Seiten .md), nicht rohe Dokument-Dumps
+- 4 spezifische Conversation Starters erhoehen Adoption massiv — leeres Eingabefeld schreckt ab
+- Test mit 5 Fragen vor Launch, dann 3 Teammitglieder beobachten, innerhalb 48h iterieren
+
+## Relevanz fuer Marketing
+Die meisten </description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>Search Engine Land</source>
+      <category>ai-tools</category>
+      <category>chatgpt</category>
+      <category>custom-gpts</category>
+      <category>b2b</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>15 Claude Code Features, die selbst Power User nicht kennen</title>
+      <link>https://www.theneuron.ai/explainer-articles/-claude-codes-creator-just-dropped-his-15-favorite-power-features-most-people-dont-know-about-/</link>
+      <description>## Kernaussagen
+- Boris Cherny (Claude Code Creator) hat seine 15 meistgenutzten Power Features veroeffentlicht
+- Claude Code ist mehr als ein Chat-Interface — es hat ein vollstaendiges Tool-Oekosystem
+- Die meisten Nutzer kratzen nur an der Oberflaeche und nutzen es wie ein besseres ChatGPT
+- Hidden Features ermoeglichen tiefere Codebase-Integration, automatisierte Workflows und Team-Kollaboration
+- Der Gap zwischen Casual-Nutzung und Power-Nutzung ist bei Coding-Agents besonders gross
+
+## Rele</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>claude-code</category>
+      <category>ai-tools</category>
+      <category>developer-tools</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Der 5-Stufen AI Proficiency Stack: Warum die meisten Teams bei Level 2 stecken</title>
+      <link>https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/</link>
+      <description>## Kernaussagen
+- The Neuron definiert 5 Stufen der AI-Nutzung: von einfachen Projekten bis zu autonomen Agents
+- Die meisten Nutzer und Teams stecken bei Level 2 fest — sie nutzen AI als besseres Google
+- Der Sprung von Level 2 zu 3+ erfordert anderes Denken: nicht &quot;was kann AI antworten&quot; sondern &quot;was kann AI ausfuehren&quot;
+- Jedes Level hat eigene Tool-Empfehlungen: ChatGPT fuer Basics, Claude/Cursor fuer Coding, Agent-Frameworks fuer Autonomie
+- 2026 ist das Jahr, in dem Teams den Sprung von Cha</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source>The Neuron</source>
+      <category>ai-adoption</category>
+      <category>ai-strategie</category>
+      <category>productivity</category>
+      <category>agents</category>
+      <category>b2b</category>
+    </item>
     <item>
       <title>Anthropic investiert 100 Mio. in Partner-Netzwerk: Was das fuer B2B-Dienstleister bedeutet</title>
       <link>https://www.anthropic.com/news/claude-partner-network</link>
