@@ -98,10 +98,12 @@ def main():
     config = load_config()
     last_crawl = load_last_crawl()
 
-    # Default: look back 3 days for YouTube
+    # Default: look back 3 days for YouTube. Per-crawler key so we don't collide
+    # with crawl_rss.py's last_run_rss (which is set ~minutes before this script
+    # runs and would otherwise filter every video out).
     default_since = datetime.now(timezone.utc) - timedelta(days=3)
-    if "last_run" in last_crawl:
-        since_date = datetime.fromisoformat(last_crawl["last_run"])
+    if "last_run_youtube" in last_crawl:
+        since_date = datetime.fromisoformat(last_crawl["last_run_youtube"])
     else:
         since_date = default_since
 
@@ -141,7 +143,7 @@ def main():
         json.dump(all_videos, f, indent=2, ensure_ascii=False)
 
     # Update last crawl
-    last_crawl["last_run"] = datetime.now(timezone.utc).isoformat()
+    last_crawl["last_run_youtube"] = datetime.now(timezone.utc).isoformat()
     last_crawl["youtube_count"] = len(all_videos)
     save_last_crawl(last_crawl)
 

@@ -33,9 +33,11 @@ rss_feeds:
     url: https://www.theneuron.ai/feed
     tags: [newsletter, trends]
 
-  - name: The Rundown AI
-    url: https://www.therundown.ai/feed
-    tags: [newsletter, tools]
+  # The Rundown AI deaktiviert: feed liefert invalides XML (feedparser bozo).
+  # Reaktivieren wenn Upstream fixt — bis dahin via WebSearch.
+  # - name: The Rundown AI
+  #   url: https://www.therundown.ai/feed
+  #   tags: [newsletter, tools]
 
   - name: Search Engine Land
     url: https://searchengineland.com/feed

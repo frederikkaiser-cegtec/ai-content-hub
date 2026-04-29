@@ -153,10 +153,10 @@ def main():
     config = load_config()
     last_crawl = load_last_crawl()
 
-    # Default: look back 2 days
+    # Default: look back 2 days. Per-crawler key so YouTube/Reddit don't collide.
     default_since = datetime.now(timezone.utc) - timedelta(days=2)
-    if "last_run" in last_crawl:
-        since_date = datetime.fromisoformat(last_crawl["last_run"])
+    if "last_run_rss" in last_crawl:
+        since_date = datetime.fromisoformat(last_crawl["last_run_rss"])
     else:
         since_date = default_since
 
@@ -181,8 +181,8 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_articles, f, indent=2, ensure_ascii=False)
 
-    # Update last crawl
-    last_crawl["last_run"] = datetime.now(timezone.utc).isoformat()
+    # Update last crawl (per-crawler key — see crawl_youtube.py / crawl_reddit.py)
+    last_crawl["last_run_rss"] = datetime.now(timezone.utc).isoformat()
     last_crawl["rss_count"] = len(all_articles)
     save_last_crawl(last_crawl)
 

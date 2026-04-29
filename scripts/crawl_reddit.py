@@ -7,6 +7,7 @@ Used by /content vorschlaege as external customer-voice signal.
 """
 
 import json
+import os
 import sys
 import time
 from datetime import datetime, timezone
@@ -32,6 +33,10 @@ SUBREDDITS = [
 POSTS_PER_SUB = 15
 COMMENTS_PER_POST = 5
 TIMEFRAME = "week"
+# Comments fetching costs 1 request per post (15x amplification per sub) and
+# tripped Reddit's unauthenticated rate-limit at sub 4/7 in the first run.
+# Default off — flip via FETCH_COMMENTS=1 env var when needed.
+FETCH_COMMENTS = os.environ.get("FETCH_COMMENTS", "0") == "1"
 
 HEADERS = {
     "User-Agent": "ai-content-hub/0.1 (CegTec content-orchestrator; contact: frederik.kaiser@cegtec.net)"
@@ -92,16 +97,17 @@ def main():
                 "created_utc": data.get("created_utc"),
                 "comments": [],
             }
-            try:
-                entry["comments"] = fetch_post_with_comments(sub, post_id)
-                time.sleep(1)  # gentle on rate-limit
-            except Exception as e:
-                entry["comments_error"] = str(e)
+            if FETCH_COMMENTS:
+                try:
+                    entry["comments"] = fetch_post_with_comments(sub, post_id)
+                    time.sleep(1)
+                except Exception as e:
+                    entry["comments_error"] = str(e)
             sub_posts.append(entry)
 
         print(f"{len(sub_posts)} posts")
         all_posts.extend(sub_posts)
-        time.sleep(2)
+        time.sleep(5)  # 5s between subs (was 2s, tripped 429 at sub 4/7)
 
     output = {
         "_fetched_at": datetime.now(timezone.utc).isoformat(),
