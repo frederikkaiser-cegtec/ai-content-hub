@@ -1,0 +1,79 @@
+{
+  "_fetched_at": "2026-04-29T12:40:07.881189+00:00",
+  "timeframe": "now 7-d",
+  "geo": "global",
+  "seeds": [
+    {
+      "seed": "ai outbound",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "ai sales",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "cold email",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "b2b lead generation",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "sales automation",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "lead enrichment",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "linkedin outreach",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "gtm strategy",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "ai sdr",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "sales intelligence",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "ai agents",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    },
+    {
+      "seed": "prompt engineering",
+      "error": "The request failed: Google returned a response with code 429",
+      "top": [],
+      "rising": []
+    }
+  ]
+}
