@@ -41,14 +41,50 @@ rss_feeds:
     url: https://searchengineland.com/feed
     tags: [seo, ai-overviews, search]
 
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    tags: [huggingface, models, research]
+
+  - name: HubSpot Marketing Blog
+    url: https://blog.hubspot.com/marketing/rss.xml
+    tags: [b2b, marketing, content]
+
 website_sources:
   - name: Anthropic News
     url: https://www.anthropic.com/news
     tags: [anthropic, claude]
 
+  - name: Anthropic Engineering
+    url: https://www.anthropic.com/engineering
+    tags: [anthropic, engineering, agents]
+
   - name: Perplexity Blog
     url: https://www.perplexity.ai/hub/blog
     tags: [perplexity, search]
+
+  - name: Mistral News
+    url: https://mistral.ai/news
+    tags: [mistral, models]
+
+  - name: xAI News
+    url: https://x.ai/news
+    tags: [xai, grok, models]
+
+  - name: Cursor Blog
+    url: https://www.cursor.com/blog
+    tags: [cursor, agents, dev]
+
+  - name: LangChain Blog
+    url: https://blog.langchain.dev
+    tags: [langchain, agents, frameworks]
+
+  - name: Vercel AI Blog
+    url: https://vercel.com/blog/category/engineering
+    tags: [vercel, ai-sdk, agents]
+
+  - name: LinkedIn Marketing Solutions Blog
+    url: https://www.linkedin.com/business/marketing/blog
+    tags: [linkedin, b2b, marketing]
 
 youtube_channels:
   - name: Matt Wolfe

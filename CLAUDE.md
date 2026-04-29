@@ -15,6 +15,7 @@ python scripts/crawl_youtube.py
 ### Schritt 2: Analyse & Filterung
 - Lies `scripts/raw/rss_raw.json` und `scripts/raw/youtube_raw.json`
 - Filtere nur Artikel die relevant sind fuer: AI + Marketing, AI-Friendliness, Agents, Content-Strategie, B2B Growth, AI Search
+- **Major Model Releases immer durchlassen** — neue Versionen von Claude, GPT, Gemini, Llama, Mistral, Grok, DeepSeek auch ohne Marketing-Tag. Hook/Angle dann auf "was bedeutet das fuer GTM/Outbound" framen, nicht reines Tech-Reblog.
 - Ignoriere: Hardware-News, reine Dev-Tools ohne Business-Bezug, Off-Topic (Lifestyle, Politik), Satire
 - Pruefe welche Artikel bereits in `content/` existieren (keine Duplikate)
 
