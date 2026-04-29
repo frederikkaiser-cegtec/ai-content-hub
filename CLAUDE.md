@@ -11,7 +11,8 @@ rm -f scripts/last_crawl.json
 python scripts/crawl_rss.py
 python scripts/crawl_youtube.py
 python scripts/crawl_trends.py || true   # best-effort, pytrends 429't haeufig — kein Abbruch
-python scripts/crawl_reddit.py    # Customer-Voice extern (top-of-week aus 7 Subs)
+python scripts/crawl_keywords.py  # Keyword-Discovery via Google News RSS (10 Topic-Seeds)
+# Reddit-Crawler entfernt 2026-04-29: Funnel-/Demografie-Mismatch zu unserem ICP
 ```
 
 ### Schritt 2: Analyse & Filterung
@@ -47,7 +48,7 @@ Hook + Angle fuer LinkedIn Post (Persona: Frederik Kaiser, B2B Marketing + KI St
 ### Schritt 4: Feed & Push
 ```bash
 python scripts/generate_feed.py     # erzeugt feed.xml + index.json
-git add content/ feed.xml index.json trends.json reddit.json
+git add content/ feed.xml index.json trends.json keywords.json
 git commit -m "content: [Anzahl] neue Summaries — [Themen-Stichworte]"
 git push origin main
 ```

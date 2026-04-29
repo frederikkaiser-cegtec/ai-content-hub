@@ -51,6 +51,31 @@ rss_feeds:
     url: https://blog.hubspot.com/marketing/rss.xml
     tags: [b2b, marketing, content]
 
+  - name: MarTech.org
+    url: https://martech.org/feed/
+    tags: [b2b, martech, news]
+
+  - name: Sprout Social Insights
+    url: https://sproutsocial.com/insights/feed/
+    tags: [social, content-marketing, b2b]
+
+  - name: Marketing AI Institute
+    url: https://www.marketingaiinstitute.com/blog/rss.xml
+    tags: [ai, marketing]
+
+  # Competitor RSS (die 2 die echtes RSS anbieten — Apollo/Gong/Lavender/Lemlist/
+  # Smartlead/Outreach/Reply.io sind JS-gerendert und liefern via crawl_rss.crawl_website 0
+  # Items, deshalb aus website_sources entfernt 2026-04-29. Coverage stattdessen ueber
+  # crawl_keywords.py mit "<vendor> news"-Seeds — News-Aggregator findet Coverage in
+  # third-party-Quellen.)
+  - name: Clay Blog
+    url: https://www.clay.com/blog/rss.xml
+    tags: [competitor, enrichment, outbound]
+
+  - name: Cognism Blog
+    url: https://www.cognism.com/blog/rss.xml
+    tags: [competitor, sales-intelligence, b2b]
+
   - name: Hacker News (100+ points)
     url: https://hnrss.org/frontpage?points=100
     tags: [trends, hn, signal]
@@ -64,25 +89,12 @@ website_sources:
     url: https://www.anthropic.com/engineering
     tags: [anthropic, engineering, agents]
 
-  - name: Perplexity Blog
-    url: https://www.perplexity.ai/hub/blog
-    tags: [perplexity, search]
-
-  - name: Mistral News
-    url: https://mistral.ai/news
-    tags: [mistral, models]
+  # Perplexity / Mistral / Cursor / LangChain entfernt 2026-04-29: alle JS-gerendert,
+  # generischer HTML-Scrape liefert 0 Items. Coverage via crawl_keywords.py.
 
   - name: xAI News
     url: https://x.ai/news
     tags: [xai, grok, models]
-
-  - name: Cursor Blog
-    url: https://www.cursor.com/blog
-    tags: [cursor, agents, dev]
-
-  - name: LangChain Blog
-    url: https://blog.langchain.dev
-    tags: [langchain, agents, frameworks]
 
   - name: Vercel AI Blog
     url: https://vercel.com/blog/category/engineering
@@ -92,42 +104,9 @@ website_sources:
     url: https://www.linkedin.com/business/marketing/blog
     tags: [linkedin, b2b, marketing]
 
-  # Competitor / Adjacent B2B-GTM blogs (signal source, not content source)
-  - name: Apollo Blog
-    url: https://www.apollo.io/blog
-    tags: [competitor, outbound, sales-intelligence]
-
-  - name: Clay Blog
-    url: https://www.clay.com/blog
-    tags: [competitor, enrichment, outbound]
-
-  - name: Gong Blog
-    url: https://www.gong.io/blog
-    tags: [competitor, sales, revenue-intelligence]
-
-  - name: Lavender Blog
-    url: https://www.lavender.ai/blog
-    tags: [competitor, email, outbound]
-
-  - name: Lemlist Blog
-    url: https://www.lemlist.com/blog
-    tags: [competitor, email, outbound]
-
-  - name: Cognism Blog
-    url: https://www.cognism.com/blog
-    tags: [competitor, sales-intelligence, b2b]
-
-  - name: Smartlead Blog
-    url: https://www.smartlead.ai/blog
-    tags: [competitor, email, outbound]
-
-  - name: Outreach Blog
-    url: https://www.outreach.io/resources/blog
-    tags: [competitor, sales-engagement]
-
-  - name: Reply.io Blog
-    url: https://reply.io/blog
-    tags: [competitor, email, outbound]
+  # Competitor-Blogs JS-gerendert (Apollo/Gong/Lavender/Lemlist/Smartlead/Outreach/Reply.io)
+  # → 2026-04-29 aus website_sources entfernt. Clay + Cognism sind als RSS oben drin.
+  # Coverage fuer die JS-only Vendors laeuft via crawl_keywords.py (Google News).
 
   # Trend-Signals
   - name: Exploding Topics
