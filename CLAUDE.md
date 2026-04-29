@@ -44,11 +44,13 @@ Hook + Angle fuer LinkedIn Post (Persona: Frederik Kaiser, B2B Marketing + KI St
 
 ### Schritt 4: Feed & Push
 ```bash
-python scripts/generate_feed.py
-git add content/ feed.xml
+python scripts/generate_feed.py     # erzeugt feed.xml + index.json
+git add content/ feed.xml index.json
 git commit -m "content: [Anzahl] neue Summaries — [Themen-Stichworte]"
 git push origin main
 ```
+
+`index.json` ist die Konsumenten-API fuer `/content vorschlaege` (full-body, kein 500-char-Truncate wie in feed.xml). Beide werden via GitHub Pages unter `https://frederikkaiser-cegtec.github.io/ai-content-hub/{feed.xml,index.json}` ausgeliefert.
 
 ### Schritt 5: Summary
 Zeige eine Tabelle der neuen Eintraege mit Thema, Quelle und Post-Angle.

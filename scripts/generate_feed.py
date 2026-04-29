@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
-"""Generate RSS feed.xml from all content markdown files."""
+"""Generate RSS feed.xml + index.json from all content markdown files.
 
+feed.xml is the public RSS feed (truncated descriptions for readers).
+index.json is the consumer-API for downstream skills (full body + frontmatter,
+no truncation). Both published via GitHub Pages from gh-pages branch.
+"""
+
+import json
 import os
 import re
 from datetime import datetime, timezone
@@ -9,6 +15,7 @@ from pathlib import Path
 REPO_DIR = Path(__file__).parent.parent
 CONTENT_DIR = REPO_DIR / "content"
 FEED_PATH = REPO_DIR / "feed.xml"
+INDEX_PATH = REPO_DIR / "index.json"
 SITE_URL = "https://frederikkaiser-cegtec.github.io/ai-content-hub"
 
 
@@ -116,6 +123,34 @@ def generate_feed():
 
     FEED_PATH.write_text(feed_xml, encoding="utf-8")
     print(f"Feed generated with {len(items)} items: {FEED_PATH}")
+
+    # index.json: full body + frontmatter for downstream skill consumption
+    index_items = []
+    for md_file in sorted(CONTENT_DIR.rglob("*.md"), reverse=True)[:100]:
+        frontmatter, body = parse_frontmatter(md_file)
+        if not frontmatter:
+            continue
+        index_items.append({
+            "title": frontmatter.get("title", md_file.stem),
+            "date": frontmatter.get("date", ""),
+            "source": frontmatter.get("source", ""),
+            "source_url": frontmatter.get("source_url", ""),
+            "type": frontmatter.get("type", ""),
+            "tags": frontmatter.get("tags", []) if isinstance(frontmatter.get("tags", []), list) else [frontmatter.get("tags")],
+            "path": str(md_file.relative_to(REPO_DIR)).replace("\\", "/"),
+            "body": body.strip(),
+        })
+
+    INDEX_PATH.write_text(
+        json.dumps({
+            "_generated_at": datetime.now(timezone.utc).isoformat(),
+            "_site_url": SITE_URL,
+            "count": len(index_items),
+            "items": index_items,
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Index generated with {len(index_items)} items: {INDEX_PATH}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,814 @@
+{
+  "_generated_at": "2026-04-29T11:58:39.764783+00:00",
+  "_site_url": "https://frederikkaiser-cegtec.github.io/ai-content-hub",
+  "count": 51,
+  "items": [
+    {
+      "title": "SEO 2026: Hoehere Standards, AI-Einfluss und ein Web das hinterherhinkt",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/seo-2026-higher-standards-ai-influence-web-catching-up-473540",
+      "type": "blog",
+      "tags": [
+        "seo",
+        "trends-2026",
+        "ai-search",
+        "web-almanac",
+        "technical-seo"
+      ],
+      "path": "content/2026-04-07/seo-2026-trends-web-almanac.md",
+      "body": "## Kernaussagen\n- Basierend auf dem Web Almanac 2025 — die umfassendste datengetriebene SEO-Analyse\n- SEO-Standards steigen: Technische Basics (Schema, Core Web Vitals, HTTPS) werden Hygienefaktor\n- AI-Einfluss waechst: AI Overviews und AI-Suchmaschinen veraendern Klickverhalten\n- Das Web hinkt hinterher: Viele Sites erfuellen nicht mal die Basics von 2024\n- Der Gap zwischen Top-Performern und dem Rest wird groesser, nicht kleiner\n\n## Relevanz fuer Marketing\nFuer B2B-Marketer ist die Botschaft klar: Technisches SEO ist kein Differentiator mehr, sondern Pflicht. Der echte Wettbewerbsvorteil liegt jetzt in AI-optimiertem Content und strukturierten Daten. Wer die Basics nicht hat, wird vom wachsenden Gap verschluckt.\n\n## Post-Idee\nHook: \"Die groesste SEO-Studie des Jahres zeigt: Der Gap zwischen Gewinnern und Verlierern wird groesser.\"\nAngle: Das Web Almanac 2025 liefert die Daten. Schema Markup, Core Web Vitals, HTTPS — das sind keine Vorteile mehr, sondern Mindestanforderungen. Der echte Kampf findet jetzt woanders statt: In AI Overviews und strukturiertem Content. Wo stehst du in diesem Gap?"
+    },
+    {
+      "title": "FTC vs. Fake-Listicles: Warum 'Best of'-Listen mit eigenem Produkt auf #1 jetzt teuer werden",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/low-quality-listicles-trend-google-search-473703",
+      "type": "blog",
+      "tags": [
+        "seo",
+        "content-qualitaet",
+        "ftc",
+        "listicles",
+        "google-rankings"
+      ],
+      "path": "content/2026-04-07/listicles-ftc-google-quality.md",
+      "body": "## Kernaussagen\n- Die FTC Consumer Review Rule (seit Oktober 2024) verbietet: eigene Produkte als #1 in \"Best of\"-Listen zu platzieren wenn der Content nicht unabhaengig ist\n- Strafen: Bis zu $53.088 pro Verstoß — jede Seite kann als separater Verstoß zaehlen\n- Betrifft: Reviews die vom Unternehmen kontrolliert werden und als unabhaengig praesentiert werden\n- Google koennte ebenfalls haerter gegen solche Listicles vorgehen — Qualitaetssignale deuten darauf hin\n- Alternativen: Echte Third-Party-Reviews, transparente Vergleiche mit Offenlegung\n\n## Relevanz fuer Marketing\nViele B2B-SaaS-Unternehmen nutzen \"Best of\"-Listicles als SEO-Strategie mit dem eigenen Tool auf Platz 1. Das ist jetzt nicht nur ein Qualitaetsproblem sondern ein rechtliches Risiko. Content-Teams muessen ihre Listicle-Strategie ueberpruefen und auf transparente Vergleiche umstellen.\n\n## Post-Idee\nHook: \"$53.000 Strafe pro Seite. Weil du dein eigenes Produkt auf Platz 1 deiner 'Best of'-Liste gesetzt hast.\"\nAngle: Die FTC macht ernst. \"Best of\"-Listicles mit dem eigenen Tool auf #1 sind nicht nur schlechtes SEO — sie sind jetzt potenziell illegal. Was das fuer B2B-Content-Teams bedeutet und wie du Vergleichscontent erstellst der funktioniert UND compliant ist."
+    },
+    {
+      "title": "Semrush-Studie: Human Content rankt 8x haeufiger auf Platz 1 als AI-Content",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/human-content-ai-rank-google-study-473697",
+      "type": "blog",
+      "tags": [
+        "ai-content",
+        "seo",
+        "google-rankings",
+        "content-qualitaet",
+        "studie"
+      ],
+      "path": "content/2026-04-07/human-content-8x-rank-google.md",
+      "body": "## Kernaussagen\n- Semrush analysierte 42.000 Blog-Posts und 20.000 Keywords mit AI-Detection\n- Human Content erscheint in 80% der Faelle auf Platz 1 vs. nur 9% fuer reinen AI-Content\n- Der Gap ist auf Position 1 am groessten — AI-Content taucht haeufiger auf niedrigeren Positionen auf\n- AI-Content verdoppelt sich fast von Position 1 zu Position 4\n- Einschraenkung: AI-Detection-Tools sind nicht perfekt — Ergebnisse mit Vorsicht interpretieren\n\n## Relevanz fuer Marketing\nDie Studie liefert Daten zu einer der wichtigsten Content-Fragen im B2B: Sollte man Content mit AI produzieren? Die Antwort ist differenziert — AI als Assistenz ja, als alleiniger Autor fuer Top-Rankings nein. Fuer B2B-Thought-Leadership bleibt menschliche Expertise der Rankingfaktor.\n\n## Post-Idee\nHook: \"80% der #1-Rankings auf Google: menschlicher Content. 9%: reiner AI-Content.\"\nAngle: Neue Semrush-Studie mit 42.000 Posts. Die Daten sind eindeutig — aber die Interpretation ist es nicht. Denn AI-Detection ist ungenau, und die besten Teams nutzen AI als Assistenz, nicht als Ersatz. Was die Studie wirklich fuer deine Content-Strategie bedeutet."
+    },
+    {
+      "title": "Content-Design fuer AI: Von Seiten zu Passagen, von Keywords zu strukturiertem Intent",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/how-to-design-content-that-ai-systems-prefer-and-promote-473476",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "content-strategie",
+        "ai-visibility",
+        "structured-content",
+        "geo"
+      ],
+      "path": "content/2026-04-07/content-design-ai-systems.md",
+      "body": "## Kernaussagen\n- AI-Systeme lesen Content nicht wie Menschen — sie extrahieren Informationen, zerlegen sie in Teile und verwenden sie in neuen Kontexten\n- Der Shift: Von Seiten zu Passagen, von Narrativen zu modularen Bloecken, von Keywords zu strukturiertem Intent\n- Was zaehlt: Ob Content sauber in eine AI-generierte Antwort uebernommen werden kann (\"retrievable units of meaning\")\n- Traditionelles SEO fokussiert auf Seiten-Rankings, AI-Systeme priorisieren abrufbare Bedeutungseinheiten\n- Content muss strukturell anders gebaut werden — nicht nur anders geschrieben\n\n## Relevanz fuer Marketing\nDas ist der wichtigste Paradigmenwechsel fuer Content-Strategen seit Mobile: AI liest deinen Content anders als Menschen. Wer weiterhin nur Long-form-Narratives schreibt, wird von AI-Systemen ignoriert. Modularer, fakten-dichter Content mit klarer Struktur gewinnt.\n\n## Post-Idee\nHook: \"AI liest deinen Content nicht. Sie zerlegt ihn.\"\nAngle: Der Shift den die meisten Content-Teams noch nicht verstanden haben: AI-Systeme extrahieren Passagen, nicht Seiten. Das aendert wie du Content bauen musst — von Narrativen zu modularen Bloecken, von Keywords zu strukturiertem Intent. Drei strukturelle Aenderungen die sofort wirken."
+    },
+    {
+      "title": "Nicht Google, sondern Bing bestimmt, welche Marken ChatGPT empfiehlt",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/bing-ranking-chatgpt-visibility-study-473680",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "chatgpt",
+        "bing",
+        "ai-visibility",
+        "seo"
+      ],
+      "path": "content/2026-04-07/bing-not-google-chatgpt-brands.md",
+      "body": "## Kernaussagen\n- Case Study: Ein Brand wurde in ~70 ChatGPT-Iterationen zur selben Frage nie empfohlen — Analyse zeigt warum\n- ChatGPT zieht seine Empfehlungen primaer aus Bing-Rankings, nicht aus Google\n- Marken die in Bing gut ranken, tauchen signifikant haeufiger in ChatGPT-Antworten auf\n- GPT Memory hatte keinen erkennbaren Einfluss auf Mentions oder Citations\n- Wer nur fuer Google optimiert und Bing ignoriert, verliert AI-Sichtbarkeit\n\n## Relevanz fuer Marketing\nDas ist ein Wake-up-Call fuer jedes B2B-Team das AI-Sichtbarkeit will: Bing-Rankings sind der Hebel fuer ChatGPT-Empfehlungen. Wer nur Google SEO macht, optimiert am falschen Ort. Bing Webmaster Tools einrichten und Bing-spezifische Optimierung sind jetzt Pflicht.\n\n## Post-Idee\nHook: \"Du optimierst fuer Google. Aber ChatGPT hoert auf Bing.\"\nAngle: Neue Case Study zeigt: Marken die in Bing ranken, werden von ChatGPT empfohlen. Marken die nur in Google stark sind — ignoriert. Das aendert die SEO-Prioritaeten komplett. Drei Dinge die du sofort tun solltest, wenn AI-Sichtbarkeit fuer dich relevant ist."
+    },
+    {
+      "title": "AI veraendert wie kleine Online-Haendler Produkte entwickeln",
+      "date": "2026-04-07",
+      "source": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "type": "blog",
+      "tags": [
+        "ai-tools",
+        "e-commerce",
+        "produktentwicklung",
+        "alibaba",
+        "small-business"
+      ],
+      "path": "content/2026-04-07/ai-small-sellers-product-strategy.md",
+      "body": "## Kernaussagen\n- Kleine Online-Haendler nutzen AI-Tools (z.B. Alibabas Accio) um Produktentscheidungen zu treffen\n- AI analysiert Markttrends, Kundennachfrage und Supplier-Angebote — Aufgaben die frueher Wochen dauerten\n- Beispiel: Ein Flashlight-Haendler konnte mit AI in Stunden statt Wochen die richtige Produktvariante identifizieren\n- Der Shift: Von Bauchgefuehl und manueller Recherche zu datengetriebener Produktentwicklung\n- AI demokratisiert Marktzugang — kleine Seller koennen jetzt mit den gleichen Daten arbeiten wie grosse Brands\n\n## Relevanz fuer Marketing\nFuer B2B-Marketer zeigt das Beispiel wie AI operative Entscheidungsprozesse veraendert — nicht nur im E-Commerce sondern ueberall wo Markt-Research in Produktentscheidungen fliesst. Der Trend: AI als strategisches Tool, nicht nur als Content-Generator.\n\n## Post-Idee\nHook: \"Ein Flashlight-Haendler hat mit AI in 3 Stunden geschafft, wofuer er frueher 3 Wochen brauchte.\"\nAngle: AI veraendert nicht nur wie wir Content schreiben — sondern wie wir Produkte entwickeln. Alibabas Accio gibt kleinen Sellern Zugang zu Marktdaten die frueher nur grosse Brands hatten. Was das fuer B2B-Produktentwicklung und Go-to-Market bedeutet."
+    },
+    {
+      "title": "AEO: Wie Content gebaut sein muss, der in AI-Antworten zitiert wird",
+      "date": "2026-04-07",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/produce-content-build-aeo-clout-473487",
+      "type": "blog",
+      "tags": [
+        "aeo",
+        "ai-search",
+        "content-strategie",
+        "brand-mentions",
+        "ai-visibility"
+      ],
+      "path": "content/2026-04-07/aeo-content-brand-mentions.md",
+      "body": "## Kernaussagen\n- Links allein reichen nicht mehr — AI-Search bewertet Autoritaet ueber Brand Mentions und Citations\n- Sichtbarkeit in AI-Antworten kommt davon, wie oft deine Marke erwaehnt und zitiert wird\n- Das Ziel: Content der konsistente Brand Mentions und Citations verdient — die neuen Autoritaetssignale\n- Answer Engine Optimization (AEO) erfordert anderen Content als klassisches SEO\n- Wer in AI-generierten Antworten referenziert werden will, braucht erkennbare Expertise zu spezifischen Themen\n\n## Relevanz fuer Marketing\nAEO ist das neue SEO. Fuer B2B-Unternehmen heisst das: Nicht mehr nur fuer Google-Rankings optimieren, sondern Content erstellen der von AI-Systemen als autoritativ erkannt und zitiert wird. Brand Mentions ueber verschiedene Plattformen hinweg werden zum neuen Backlink.\n\n## Post-Idee\nHook: \"Backlinks waren das alte Autoritaetssignal. Brand Mentions sind das neue.\"\nAngle: Answer Engine Optimization (AEO) veraendert wie Autoritaet in Search gemessen wird. Nicht mehr Links zaehlen, sondern wie oft deine Marke in AI-Antworten zitiert wird. Der Shift: Von Seiten die ranken zu Marken die referenziert werden. Was das fuer deine Content-Strategie bedeutet."
+    },
+    {
+      "title": "Trace2Skill: Warum sich AI Agents durch bessere Playbooks verbessern, nicht durch bessere Modelle",
+      "date": "2026-03-31",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/",
+      "type": "blog",
+      "tags": [
+        "ai-agents",
+        "automation",
+        "playbooks",
+        "agent-ops"
+      ],
+      "path": "content/2026-03-31/trace2skill-agent-playbooks.md",
+      "body": "## Kernaussagen\n- Trace2Skill zeigt, dass der naechste Sprung bei AI Agents nicht von besseren Base Models kommt, sondern von besseren operativen Playbooks\n- Agents lernen aus ihren eigenen Ausfuehrungsspuren (Traces) und verbessern ihre Playbooks automatisch\n- Das Konzept verschiebt den Fokus von \"welches Modell\" zu \"welcher Prozess\" — Operations statt Model-Shopping\n- Fuer Unternehmen bedeutet das: Agent-Systeme werden durch Nutzung besser, nicht durch Updates\n- Self-Improving Playbooks koennten die Art veraendern, wie Companies Agent-Systeme bauen und skalieren\n\n## Relevanz fuer Marketing\nFuer B2B-Teams, die AI Agents im Outreach oder Content einsetzen, ist das ein Game-Changer: Statt staendig neue Tools zu evaluieren, sollte der Fokus auf dokumentierten Prozessen liegen, die Agents iterativ verbessern koennen.\n\n## Post-Idee\nHook: \"Das naechste AI-Upgrade kommt nicht von OpenAI oder Anthropic. Es kommt aus deinen eigenen Prozessen.\"\nAngle: Trace2Skill zeigt, dass Agents sich durch bessere Playbooks verbessern, nicht durch bessere Modelle. Was das fuer B2B-Teams bedeutet: Hoer auf, Tools zu wechseln. Fang an, deine Prozesse so zu dokumentieren, dass AI daraus lernen kann. Der Wettbewerbsvorteil liegt nicht im Modell — sondern in deinen Operations."
+    },
+    {
+      "title": "Reddit Pro ist jetzt offen: Ein neuer Content-Distributionskanal fuer Publisher",
+      "date": "2026-03-31",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/reddit-pro-new-features-public-beta-472991",
+      "type": "blog",
+      "tags": [
+        "content-distribution",
+        "reddit",
+        "publisher-tools",
+        "content-strategie"
+      ],
+      "path": "content/2026-03-31/reddit-pro-content-distribution.md",
+      "body": "## Kernaussagen\n- Reddit Pro ist ab sofort fuer alle Publisher verfuegbar (vorher Waitlist)\n- Features: Content-Tracking ueber Subreddits, RSS-Auto-Import, AI-Community-Empfehlungen\n- Fruehe Tester sahen +46% Post Views, fast doppelte Profil-Views und +48% Comments\n- 55 Milliarden Views von publisher-bezogenen Gespraechen auf Reddit in 2025\n- Neue Community Snapshots und Notes helfen bei strategischem Community-Management\n\n## Relevanz fuer Marketing\nReddit wird als Distributionskanal massiv unterschaetzt. Mit Reddit Pro wird es erstmals moeglich, Content-Seeding strukturiert zu betreiben — inklusive Tracking und AI-gestuetzter Community-Auswahl. Fuer B2B-Publisher mit Thought Leadership Content ein relevanter neuer Kanal.\n\n## Post-Idee\nHook: \"55 Milliarden Views auf Reddit im letzten Jahr. Null davon kamen von deinem Content.\"\nAngle: Reddit Pro ist jetzt fuer alle offen — mit RSS-Import, AI-Community-Matching und Engagement-Tracking. Fruehe Tester: +46% Views. Fuer B2B-Publisher, die ueber LinkedIn hinaus denken wollen, ist Reddit jetzt ein ernstzunehmender Distributionskanal. Drei Gruende, warum es sich lohnt."
+    },
+    {
+      "title": "Warum Full-Funnel-Optimierung bei langen Sales Cycles nach hinten losgeht",
+      "date": "2026-03-31",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/paid-media-optimization-long-sales-cycles-472893",
+      "type": "blog",
+      "tags": [
+        "b2b-marketing",
+        "paid-media",
+        "sales-cycle",
+        "performance-marketing",
+        "attribution"
+      ],
+      "path": "content/2026-03-31/paid-media-long-sales-cycles.md",
+      "body": "## Kernaussagen\n- Standard-Ratschlag \"optimiere den ganzen Funnel bis zum Sale\" funktioniert nicht bei langen Sales Cycles\n- Nach Lead-Capture haengt Conversion hauptsaechlich von der Sales-Team-Performance ab, nicht von Ad-Targeting\n- Wenn ein Top-Closer im Urlaub ist, interpretiert der Algorithmus das als Targeting-Problem und optimiert weg\n- Saisonale Schwankungen, Team-Aenderungen und Response-Zeiten verzerren Conversion-Daten massiv\n- Empfehlung: Kampagnen nur bis zum Lead/MQL optimieren, nicht bis zum Sale\n\n## Relevanz fuer Marketing\nJedes B2B-Unternehmen mit Vertriebsteam und laengeren Sales Cycles kennt dieses Problem. Der Artikel erklaert praezise, warum Full-Funnel-Attribution in Paid Ads ein Anti-Pattern sein kann — und wo die sinnvolle Grenze liegt.\n\n## Post-Idee\nHook: \"Dein bester Closer ist im Urlaub. Google Ads denkt: Unser Targeting funktioniert nicht mehr. Und optimiert deine besten Keywords weg.\"\nAngle: Full-Funnel-Optimierung ist der Standard-Ratschlag in B2B Paid Media. Aber wenn dein Sales Cycle laenger als 30 Tage ist, trainierst du den Algorithmus auf Team-Performance statt Lead-Qualitaet. Warum die beste Kampagne bei MQL aufhoert zu optimieren — nicht beim Sale."
+    },
+    {
+      "title": "TurboQuant: Googles neuer Algorithmus macht AI-Search schneller und breiter",
+      "date": "2026-03-31",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-turboquant-algorithm-vector-search-472977",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "google",
+        "vector-search",
+        "ai-overviews",
+        "seo"
+      ],
+      "path": "content/2026-03-31/google-turboquant-vector-search.md",
+      "body": "## Kernaussagen\n- TurboQuant ist ein neuer Kompressionsalgorithmus von Google fuer Vector Search\n- Reduziert Speicherbedarf massiv bei nahezu null Indexierungszeit\n- Ermoeglicht Google, deutlich mehr Dokumente pro Query auszuwerten — nicht nur ein kleines Subset\n- AI Overviews koennten kuenftig aus einer breiteren, praeziseren Quellenbasis generiert werden\n- Kombination aus smarter Kompression und 1-Bit-Fehlerkorrektur haelt Genauigkeit hoch\n\n## Relevanz fuer Marketing\nWenn Google mehr Quellen pro AI Overview evaluieren kann, steigt die Chance fuer Nischen-Content, in AI-Antworten aufzutauchen. Fuer B2B-Unternehmen bedeutet das: Tiefe, spezifische Inhalte werden wertvoller als generische Seiten — weil AI jetzt tiefer graben kann.\n\n## Post-Idee\nHook: \"Google kann jetzt 10x mehr Quellen pro AI-Antwort auswerten. Das aendert alles fuer Content-Strategie.\"\nAngle: TurboQuant macht Vector Search schneller und breiter. Fuer Marketer heisst das: Nischen-Content hat ploetzlich eine reale Chance, in AI Overviews zu landen. Wer nur generische Pillar Pages hat, verliert gegen spezialisierte Inhalte. Die Tiefe deines Contents wird zum Ranking-Faktor."
+    },
+    {
+      "title": "FAQs sind der neue SEO-Hebel: Wie AI-Search lokale Antworten generiert",
+      "date": "2026-03-31",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/how-to-build-faqs-that-power-ai-driven-local-search-472773",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "seo",
+        "local-search",
+        "ai-visibility",
+        "faqs"
+      ],
+      "path": "content/2026-03-31/faqs-ai-local-search.md",
+      "body": "## Kernaussagen\n- Google Maps hat \"Ask Maps about this place\" — AI beantwortet Nutzerfragen direkt, wenn genug Infos vorhanden sind\n- Merchant Center's neuer \"Business Agent\" laesst Nutzer mit Marken chatten, basierend auf Website-Inhalten\n- Klassische FAQ-Seiten aus SEO-Tools reichen nicht — AI braucht standortspezifische, kundenrelevante Fragen\n- Konsistenz ueber alle Plattformen (Website, GBP, Yelp, Social) ist entscheidend fuer AI-Antworten\n- Wer keine strukturierten Antworten liefert, wird von AI uebersprungen oder durch Drittquellen ersetzt\n\n## Relevanz fuer Marketing\nAI-Search-Features wie \"Ask Maps\" und Business Agent werden die naechste Schlachtfeld-Ebene im Local Marketing. B2B-Unternehmen mit physischen Standorten muessen ihre FAQ-Strategie grundlegend ueberdenken — weg von Keyword-getriebenen Standard-FAQs, hin zu echten Kundenfragen.\n\n## Post-Idee\nHook: \"Google Maps beantwortet jetzt Fragen ueber dein Unternehmen. Die Frage ist: Hat es genug Informationen, um die richtige Antwort zu geben?\"\nAngle: \"Ask Maps about this place\" und Business Agent sind live. Wer keine strukturierten FAQs auf Website + GBP + Social hat, wird von AI ignoriert. Drei Schritte, um deine FAQ-Strategie AI-ready zu machen — und warum Standard-SEO-FAQs dafuer nicht reichen."
+    },
+    {
+      "title": "Custom GPTs fuer B2B-Teams: Warum 99% scheitern und wie die 1% gebaut werden",
+      "date": "2026-03-31",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/build-custom-gpt-472870",
+      "type": "blog",
+      "tags": [
+        "ai-tools",
+        "chatgpt",
+        "custom-gpts",
+        "b2b",
+        "productivity"
+      ],
+      "path": "content/2026-03-31/custom-gpt-business-teams.md",
+      "body": "## Kernaussagen\n- Von 3 Mio+ Custom GPTs im GPT Store werden die meisten nie regelmaessig genutzt\n- Erfolgsrezept: Ein GPT = ein Job, fuer eine Rolle, mit einer Methode (One-Sentence-Test)\n- Knowledge Files muessen kuratiert sein (1-2 Seiten .md), nicht rohe Dokument-Dumps\n- 4 spezifische Conversation Starters erhoehen Adoption massiv — leeres Eingabefeld schreckt ab\n- Test mit 5 Fragen vor Launch, dann 3 Teammitglieder beobachten, innerhalb 48h iterieren\n\n## Relevanz fuer Marketing\nDie meisten B2B-Teams haben Custom GPTs ausprobiert und aufgegeben. Der Artikel liefert ein konkretes Framework, das funktioniert — relevant fuer jeden, der AI-Tools im Marketing- oder Sales-Alltag verankern will.\n\n## Post-Idee\nHook: \"3 Millionen Custom GPTs im Store. Wie viele nutzt dein Team taeglich? Wahrscheinlich null.\"\nAngle: Der Grund ist immer derselbe: zu breit, zu wenig getestet, keine Strategie. Der One-Sentence-Test fuer Custom GPTs, der den Unterschied macht — und warum ein 2-seitiges Markdown-File besser ist als ein 50-Seiten-PDF als Knowledge Base."
+    },
+    {
+      "title": "15 Claude Code Features, die selbst Power User nicht kennen",
+      "date": "2026-03-31",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/explainer-articles/-claude-codes-creator-just-dropped-his-15-favorite-power-features-most-people-dont-know-about-/",
+      "type": "blog",
+      "tags": [
+        "claude-code",
+        "ai-tools",
+        "developer-tools",
+        "productivity"
+      ],
+      "path": "content/2026-03-31/claude-code-power-features.md",
+      "body": "## Kernaussagen\n- Boris Cherny (Claude Code Creator) hat seine 15 meistgenutzten Power Features veroeffentlicht\n- Claude Code ist mehr als ein Chat-Interface — es hat ein vollstaendiges Tool-Oekosystem\n- Die meisten Nutzer kratzen nur an der Oberflaeche und nutzen es wie ein besseres ChatGPT\n- Hidden Features ermoeglichen tiefere Codebase-Integration, automatisierte Workflows und Team-Kollaboration\n- Der Gap zwischen Casual-Nutzung und Power-Nutzung ist bei Coding-Agents besonders gross\n\n## Relevanz fuer Marketing\nFuer Marketing-Teams, die AI Agents fuer Automatisierung oder Website-Entwicklung nutzen, zeigt dieser Artikel das Potenzial von Coding Agents. Wer nur promptet statt konfiguriert, laesst 80% der Moeglichkeiten liegen.\n\n## Post-Idee\nHook: \"Der Typ, der Claude Code gebaut hat, nutzt es komplett anders als du.\"\nAngle: Boris Cherny hat 15 Features geteilt, die er taeglich nutzt — und die die meisten Nutzer nicht kennen. Das Problem: Wir behandeln AI Coding Agents wie Chat-Interfaces. Aber der echte Produktivitaetssprung kommt aus Features, die du aktiv konfigurieren musst. Drei davon, die ich ab sofort nutze."
+    },
+    {
+      "title": "Der 5-Stufen AI Proficiency Stack: Warum die meisten Teams bei Level 2 stecken",
+      "date": "2026-03-31",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/",
+      "type": "blog",
+      "tags": [
+        "ai-adoption",
+        "ai-strategie",
+        "productivity",
+        "agents",
+        "b2b"
+      ],
+      "path": "content/2026-03-31/ai-proficiency-stack-2026.md",
+      "body": "## Kernaussagen\n- The Neuron definiert 5 Stufen der AI-Nutzung: von einfachen Projekten bis zu autonomen Agents\n- Die meisten Nutzer und Teams stecken bei Level 2 fest — sie nutzen AI als besseres Google\n- Der Sprung von Level 2 zu 3+ erfordert anderes Denken: nicht \"was kann AI antworten\" sondern \"was kann AI ausfuehren\"\n- Jedes Level hat eigene Tool-Empfehlungen: ChatGPT fuer Basics, Claude/Cursor fuer Coding, Agent-Frameworks fuer Autonomie\n- 2026 ist das Jahr, in dem Teams den Sprung von Chat zu Agents machen muessen\n\n## Relevanz fuer Marketing\nDie meisten B2B-Marketing-Teams nutzen AI noch fuer Text-Generierung und Recherche (Level 1-2). Der Wettbewerbsvorteil liegt bei Teams, die AI fuer Workflow-Automatisierung und Agent-basierte Systeme einsetzen (Level 3-5). Guter Benchmark, um den eigenen Stand einzuordnen.\n\n## Post-Idee\nHook: \"Level 1: Du fragst ChatGPT. Level 5: AI fuehrt deine Kampagnen aus. Die meisten Teams stecken bei Level 2.\"\nAngle: The Neuron hat einen 5-Stufen AI Proficiency Stack definiert. Die ehrliche Frage fuer jedes B2B-Team: Auf welchem Level bist du wirklich? Und was muesste sich aendern, um eins hoeher zu kommen? Der Sprung von Chat zu Agents ist der haerteste — und der wichtigste."
+    },
+    {
+      "title": "Anthropic investiert 100 Mio. in Partner-Netzwerk: Was das fuer B2B-Dienstleister bedeutet",
+      "date": "2026-03-30",
+      "source": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news/claude-partner-network",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "claude",
+        "b2b",
+        "partner",
+        "enterprise",
+        "strategie"
+      ],
+      "path": "content/2026-03-30/claude-partner-network-b2b.md",
+      "body": "## Kernaussagen\n- Anthropic startet das Claude Partner Network mit $100 Mio. Budget fuer 2026\n- Partner erhalten: Anthropic Academy Training, Sales Playbooks, technische Zertifizierungen (Claude Certified Architect)\n- Code Modernization Starter Kit fuer Legacy-Migration inklusive\n- Grosse Partner bereits an Bord: Accenture (30.000 Mitarbeiter trainiert), Deloitte, Cognizant, Infosys\n- Kostenlose Mitgliedschaft mit sofortigem Zugang zu Investment-Moeglichkeiten\n\n## Relevanz fuer Marketing\nDas ist ein Signal fuer den gesamten B2B-Beratungsmarkt: KI-Kompetenz wird zertifizierbar und damit verkaufbar. Fuer Agenturen und Dienstleister entsteht ein neuer Differenzierungsfaktor — wer Claude-zertifiziert ist, hat einen Vertrauensvorsprung bei Enterprise-Kunden.\n\n## Post-Idee\nHook: \"Anthropic gibt 100 Millionen Dollar aus — nicht fuer ein neues Modell, sondern fuer Partner.\"\nAngle: Warum das Claude Partner Network der smarteste Move im KI-Markt 2026 ist. Der Engpass bei KI-Adoption war nie die Technologie — sondern die Implementierung. Anthropic loest jetzt genau das. Was Dienstleister und Agenturen JETZT tun sollten, um davon zu profitieren. Parallele zu Salesforce Consulting-Oekosystem ziehen."
+    },
+    {
+      "title": "Claude Opus 4.6: Anthropics staerkstes Modell und was es fuer AI-Tools bedeutet",
+      "date": "2026-03-30",
+      "source": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "claude",
+        "ai-modelle",
+        "produktivitaet"
+      ],
+      "path": "content/2026-03-30/claude-opus-4-6-release.md",
+      "body": "## Kernaussagen\n- Anthropic veroeffentlicht Claude Opus 4.6 — das leistungsfaehigste Modell der Claude-Familie\n- Teil der Claude 4.5/4.6 Generation mit erweitertem Kontext (1M Tokens)\n- Verfuegbar in Claude Code CLI, Desktop App, Web App und IDE-Extensions\n- Positioniert sich als direkter Konkurrent zu GPT-5 und Gemini Ultra\n- Anthropic setzt weiter auf Safety-First-Ansatz parallel zur Leistungssteigerung\n\n## Relevanz fuer Marketing\nFuer B2B-Teams die AI-Tools fuer Content, Analyse und Outreach nutzen: Staerkere Modelle bedeuten bessere Personalisierung, praezisere Research und effizientere Workflows. Wer seine Tool-Stacks frueh auf die neuesten Modelle optimiert, hat einen Vorsprung.\n\n## Post-Idee\nHook: \"Das AI-Modell das ich taeglich nutze hat gerade ein massives Upgrade bekommen.\"\nAngle: Nicht ueber Benchmarks reden, sondern ueber den praktischen Impact — was aendert sich konkret wenn dein AI-Copilot 10x mehr Kontext versteht? Beispiel: Ganze Kundendatenbanken analysieren statt einzelne Datenpunkte."
+    },
+    {
+      "title": "Claude Mythos geleakt: Warum Cybersecurity-Aktien einbrechen und was das fuer KI-Strategen bedeutet",
+      "date": "2026-03-30",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "claude",
+        "cybersecurity",
+        "ai-modelle",
+        "strategie"
+      ],
+      "path": "content/2026-03-30/claude-mythos-leak-cybersecurity.md",
+      "body": "## Kernaussagen\n- Anthropics naechstes Modell \"Claude Mythos\" (Codename Capybara) wurde durch eine CMS-Fehlkonfiguration geleakt — fast 3.000 interne Dokumente waren oeffentlich zugaenglich\n- Mythos soll in Coding, Reasoning und Cybersecurity \"dramatisch besser\" als Opus 4.6 performen\n- Anthropic selbst warnt: Das Modell ist extrem teuer zu betreiben — droht ein \"Pay-to-Win\"-KI-Markt\n- Cybersecurity-Aktien fielen 3-7% nach Bekanntwerden des Leaks\n- Die Luecke zwischen KI-Angreifern und menschlichen Verteidigern waechst\n\n## Relevanz fuer Marketing\nFuer B2B-Marketer zeigt dieser Leak zwei Dinge: Erstens wird KI-Kompetenz im Cybersecurity-Bereich zum Verkaufsargument. Zweitens entsteht eine neue Preisdynamik — Frontier-Modelle werden teurer, was die Toolauswahl strategischer macht.\n\n## Post-Idee\nHook: \"Cybersecurity-Aktien stuerzen 7% ab — wegen eines KI-Modells, das noch gar nicht released ist.\"\nAngle: Was der Mythos-Leak ueber die naechste Phase des KI-Markts verraet. Nicht das Modell selbst ist die Story — sondern dass Anthropic selbst sagt: \"Zu teuer fuer die meisten.\" Wer jetzt nicht versteht, wie KI-Pricing funktioniert, zahlt spaeter drauf. 3 Punkte, was B2B-Entscheider daraus mitnehmen sollten."
+    },
+    {
+      "title": "Claude Mythos geleakt — und Cybersecurity-Aktien stuerzen ab",
+      "date": "2026-03-30",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "claude",
+        "cybersecurity",
+        "ai-industry",
+        "trends"
+      ],
+      "path": "content/2026-03-30/claude-mythos-cybersecurity-crash.md",
+      "body": "## Kernaussagen\n- Anthropic hat versehentlich Details zu \"Claude Mythos\" geleakt — einem kommenden Modell oder Feature\n- Cybersecurity-Aktien reagierten mit deutlichen Kursverlusten\n- Der Leak deutet auf erweiterte AI-Capabilities hin die traditionelle Security-Ansaetze herausfordern\n- Zeigt wie stark AI-Ankuendigungen inzwischen ganze Branchen-Bewertungen beeinflussen\n- Die AI-Branche bewegt sich schneller als Maerkte reagieren koennen\n\n## Relevanz fuer Marketing\nAI-Entwicklungen haben Ripple-Effects weit ueber Tech hinaus. B2B-Unternehmen muessen verstehen, dass AI-Fortschritte ganze Industrien umstrukturieren — und das schafft neue Zielgruppen und Pain Points fuer Outreach.\n\n## Post-Idee\nHook: \"Ein einziger AI-Leak hat gestern Milliarden an Boersenwert vernichtet.\"\nAngle: Die Geschwindigkeit der AI-Disruption am konkreten Beispiel zeigen. Wenn ein Leak reicht um eine Branche zu erschuettern, wie schnell veraendern sich dann die Spielregeln in deiner Branche? Wer jetzt nicht AI-ready ist, wird von solchen Shifts ueberrollt."
+    },
+    {
+      "title": "AI Max fuer Google Ads: Was 50+ Accounts wirklich zeigen",
+      "date": "2026-03-30",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/heidi-sturrock-shares-how-a-costly-mistake-became-a-competitive-advantage-472865",
+      "type": "blog",
+      "tags": [
+        "google-ads",
+        "ai-max",
+        "ppc",
+        "b2b-marketing"
+      ],
+      "path": "content/2026-03-30/ai-max-search-ppc-learnings.md",
+      "body": "## Kernaussagen\n- Heidi Sturrock hat AI Max in ueber 50 Accounts getestet: ~2/3 positive Ergebnisse, ~1/3 underperforming\n- Underperformance meist durch zu wenig historische Conversion-Daten — der Algorithmus braucht Futter\n- Haeufigster Audit-Fehler: Attribution-Windows passen nicht zum tatsaechlichen Sales Cycle (besonders bei High-Ticket B2B)\n- Zweiter Fehler: Fixierung auf sekundaere KPIs (CPC, CTR) statt auf das vereinbarte Hauptziel (ROAS)\n- Steigender CPC ist kein Problem wenn der ROAS stimmt — der Algorithmus bietet auf High-Intent Auktionen\n\n## Relevanz fuer Marketing\nDirekt relevant fuer B2B-Paid-Kampagnen: Wer lange Sales Cycles hat (wie in der Energie-Branche), muss Attribution-Windows anpassen. Und: AI Max funktioniert nur mit genuegend Daten — kleine Accounts brauchen andere Strategien.\n\n## Post-Idee\nHook: \"Steigende CPCs bei Google Ads? Vielleicht ist das ein gutes Zeichen.\"\nAngle: Die kontraintuitive Erkenntnis aufgreifen — hoeherer CPC kann bedeuten, dass der Algorithmus die richtigen Auktionen findet. Entscheidend ist nicht was ein Klick kostet, sondern was er bringt. Parallele zu Outreach: Weniger Mails mit hoeherer Qualitaet > Masse."
+    },
+    {
+      "title": "AI Max im Praxistest: Erkenntnisse aus 50+ Google Ads Accounts fuer B2B",
+      "date": "2026-03-30",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/heidi-sturrock-shares-how-a-costly-mistake-became-a-competitive-advantage-472865",
+      "type": "blog",
+      "tags": [
+        "google-ads",
+        "ppc",
+        "ai-max",
+        "b2b-marketing",
+        "automatisierung"
+      ],
+      "path": "content/2026-03-30/ai-max-ppc-50-accounts.md",
+      "body": "## Kernaussagen\n- PPC-Expertin Heidi Sturrock hat AI Max fuer Google Ads in ueber 50 Accounts getestet\n- Ergebnis: Zwei Drittel zeigen starke Performance, ein Drittel underperformt — meist wegen zu wenig historischer Daten\n- Haeufigste Audit-Fehler: Attributionsfenster passen nicht zum Sales Cycle, Fokus auf sekundaere KPIs (CPC/CTR) statt primaerer Ziele (ROAS)\n- Praxis-Lesson: Hoeherer CPC ist kein Problem, wenn der Algorithmus dafuer in High-Intent-Auktionen bietet\n- Fehler-Management: Sofort pausieren, dann transparent kommunizieren — baut mehr Vertrauen als Vertuschung\n\n## Relevanz fuer Marketing\nFuer B2B-Marketer mit laengeren Sales Cycles ist die Erkenntnis zu Attribution besonders wichtig: Kurze Attributionsfenster verhungern den Algorithmus. Wer AI Max nutzen will, muss zuerst die Datenbasis und das Tracking richtig aufsetzen.\n\n## Post-Idee\nHook: \"AI Max funktioniert in 66% der Accounts. In 34% nicht. Der Unterschied? Daten.\"\nAngle: Erfahrungswerte aus 50+ Accounts — was AI Max braucht, um zu performen. Drei Fehler, die B2B-Marketer machen: (1) Attribution zu kurz fuer den Sales Cycle, (2) CPC optimieren statt ROAS, (3) Ohne historische Daten starten. Konkrete Empfehlung: Erst 3 Monate Conversion-Daten sammeln, dann AI Max aktivieren."
+    },
+    {
+      "title": "Agentic Coding veraendert alles — warum Architektur-Denken wichtiger wird als Code schreiben",
+      "date": "2026-03-30",
+      "source": "Simon Willison",
+      "source_url": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "coding",
+        "architektur",
+        "strategie",
+        "ai-adoption"
+      ],
+      "path": "content/2026-03-30/agentic-coding-architektur-matt-webb.md",
+      "body": "## Kernaussagen\n- Matt Webb (Tech-Architekt): KI-Agents loesen jedes Problem durch Brute Force — sie \"schleifen Probleme zu Staub\"\n- Das reicht aber nicht: Code muss wartbar, adaptiv und komponierbar sein\n- Erkenntnis: \"Ich schaue weniger auf Code als je zuvor und denke mehr ueber Architektur nach als je zuvor\"\n- Der echte Wert liegt in Libraries mit guten Interfaces, die den richtigen Weg zum einfachen Weg machen\n- Vibe Coding (nicht Coding, nicht Vibe Coding) verschiebt den Skill von Implementierung zu Systemdesign\n\n## Relevanz fuer Marketing\nDie Parallele zu Marketing-Operations ist direkt: Auch dort loesen KI-Tools einzelne Aufgaben — aber ohne Architektur (CRM-Struktur, Datenfluss, Prozessdesign) entsteht nur teurer Wildwuchs. B2B-Teams brauchen jemanden, der das Gesamtsystem denkt.\n\n## Post-Idee\nHook: \"KI-Agents koennen jedes Problem loesen. Das ist das Problem.\"\nAngle: Matt Webbs Insight ueber Agentic Coding gilt 1:1 fuer Marketing-Ops. Wenn jeder Agent jede Aufgabe loesen kann, wird die Frage nicht \"Welches Tool?\", sondern \"Welche Architektur?\". Drei Fragen, die sich jedes B2B-Team stellen sollte, bevor es den naechsten Agent einrichtet. Schluss-These: Der neue Marketing-Skill ist nicht Prompting — sondern System-Design."
+    },
+    {
+      "title": "Agentic Coding veraendert alles — aber Architektur bleibt Koenig",
+      "date": "2026-03-30",
+      "source": "Simon Willison",
+      "source_url": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
+      "type": "blog",
+      "tags": [
+        "ai-agents",
+        "vibe-coding",
+        "architektur",
+        "strategie"
+      ],
+      "path": "content/2026-03-30/agentic-coding-architecture-shift.md",
+      "body": "## Kernaussagen\n- AI Agents \"zermahlen Probleme zu Staub\" — mit genug Tokens und einer While-Schleife loesen sie fast alles\n- Aber: Brute-Force-Loesungen sind nicht wartbar, nicht composable und nicht skalierbar\n- Der Schluessel liegt in guter Architektur: Libraries mit sauberen Interfaces, die den \"richtigen Weg\" zum einfachen Weg machen\n- Matt Webb beschreibt einen Paradigmenwechsel: Weniger auf einzelne Code-Zeilen schauen, mehr ueber Architektur nachdenken\n- \"Vibe Coding\" ist nicht gleich \"kein Nachdenken\" — es verschiebt den Fokus auf Systemdesign\n\n## Relevanz fuer Marketing\nFuer B2B-Teams die AI-Tools einsetzen (Clay, n8n, Agents): Die Versuchung ist gross, schnelle Hacks zu bauen. Aber nachhaltige Ergebnisse kommen nur mit durchdachter Architektur — gilt fuer Outreach-Systeme genauso wie fuer Software.\n\n## Post-Idee\nHook: \"AI Agents loesen jedes Problem. Aber die meisten Loesungen sind Muell.\"\nAngle: Die Parallele zwischen Vibe Coding und Vibe Outreach ziehen — wer nur \"Tokens verbrennt\" (= Massen-E-Mails) ohne Architektur (= Targeting, Sequenz-Logik, Personalisierung) verliert langfristig. Architektur > Brute Force."
+    },
+    {
+      "title": "Vibe-Porting: JSONata in 7 Stunden mit AI neu geschrieben — 500K Dollar gespart",
+      "date": "2026-03-27",
+      "source": "Simon Willison",
+      "source_url": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "vibe-coding",
+        "ai-produktivitaet",
+        "case-study",
+        "agentic-engineering"
+      ],
+      "path": "content/2026-03-27/vibe-porting-jsonata-case-study.md",
+      "body": "## Kernaussagen\n- Reco-Team hat JSONata (JSON Expression Language) in 7 Stunden als Go-Implementierung mit AI neu geschrieben\n- Kosten: 400 Dollar Token-Spend — geschaetzte Ersparnis: 500K Dollar pro Jahr\n- Schluessel zum Erfolg: Bestehende Test-Suite als Validierung (nicht blindes AI-Coding)\n- Shadow Deployment eine Woche lang parallel betrieben zur Verifikation\n- Pattern \"Vibe-Porting\": AI nutzen um bewaeehrten Code in neue Sprache zu portieren\n\n## Relevanz fuer Marketing\nVibe-Porting zeigt, wie AI nicht nur Content, sondern ganze Business-Prozesse transformiert. Fuer B2B-Marketer ist das eine Story ueber AI-ROI, die jeder C-Level versteht: 400 Dollar rein, 500K raus.\n\n## Post-Idee\nHook: \"400 Dollar AI-Kosten. 500.000 Dollar Ersparnis pro Jahr. Das ist kein Clickbait — das ist eine Case Study.\"\nAngle: Vibe-Porting als Konzept erklaeren, die Bedingungen fuer Erfolg betonen (Test-Suite!), und die Frage stellen: \"Wo in Deinem Unternehmen schlummert ein aehnliches 400-Dollar-Projekt?\""
+    },
+    {
+      "title": "133x ROAS durch SEO-Reife: Wie Content-Autoritaet Paid Media skaliert",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/seo-maturity-roas-medical-device-marketing-472630",
+      "type": "blog",
+      "tags": [
+        "b2b-growth",
+        "seo",
+        "content-strategie",
+        "paid-media",
+        "roas"
+      ],
+      "path": "content/2026-03-27/seo-maturity-133x-roas-b2b.md",
+      "body": "## Kernaussagen\n- B2B Medical Device Case Study: SEO als Revenue-Infrastruktur behandelt, nicht als Nice-to-have\n- Ohne topical authority konvertierten Ads kaum — trotz vorhandenem Search Demand\n- Strategie: Full informational landscape mappen, Education-First Content, Expertise aufbauen\n- Ergebnis: 133x ROAS nachdem SEO-Fundament stand — Paid Media skalierte erst mit Trust-Layer\n- Conversion-Tracking war anfangs lueckenhaft — sauberes GTM-Setup war Wendepunkt\n\n## Relevanz fuer Marketing\nDie perfekte Case Study fuer den Zusammenhang zwischen Content-Autoritaet und Paid Performance. Fuer jedes B2B-Unternehmen mit komplexem Produkt und langem Sales-Cycle gilt: SEO ist kein Traffic-Kanal, sondern die Grundlage fuer alles andere.\n\n## Post-Idee\nHook: \"133x ROAS. Nicht durch mehr Budget. Sondern durch besseren Content.\"\nAngle: Die Erkenntnis teilen, dass Paid ohne Content-Autoritaet nicht skaliert. Eigene Erfahrung einbringen: \"Wir sehen das bei jedem B2B-Kunden — wer die SEO-Hausaufgaben nicht macht, verbrennt Ad-Budget.\""
+    },
+    {
+      "title": "Google PMax: Saisonale Creatives per Klick — neues Asset Group Theming",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-adds-seasonal-creative-theming-to-pmax-asset-groups-472762",
+      "type": "blog",
+      "tags": [
+        "performance-max",
+        "google-ads",
+        "creative-automation",
+        "ai-marketing",
+        "kampagnen"
+      ],
+      "path": "content/2026-03-27/pmax-seasonal-theming.md",
+      "body": "## Kernaussagen\n- Neues Feature: Asset Group Theming in Performance Max — saisonale Varianten ohne Neuaufbau\n- Klonen einer bestehenden Asset Group, Theme anwenden, Google generiert Bild-Varianten + Headline-Vorschlaege\n- Verfuegbare Themes: Sales, Seasons, kulturelle Momente (Black Friday, Weihnachten, Ostern etc.)\n- Original-Asset-Group bleibt unberuehrt — sicheres A/B-Testing moeglich\n- Kein Ersatz fuer Designer, aber massiver Zeitgewinn bei saisonalen Peaks\n\n## Relevanz fuer Marketing\nFuer B2B-Teams mit begrenzten Design-Ressourcen ist das ein Game-Changer: Saisonale Kampagnen-Varianten in Minuten statt Tagen. Besonders wertvoll fuer Unternehmen die mehrere saisonale Peaks pro Jahr bespielen.\n\n## Post-Idee\nHook: \"Saisonale Creatives in Google PMax — frueher 3 Tage, jetzt 3 Klicks.\"\nAngle: Feature kurz erklaeren, Einschaetzung geben (Creative Assistant, kein Designer-Ersatz), fragen: \"Nutzt Du PMax schon fuer saisonale Kampagnen?\""
+    },
+    {
+      "title": "Google erweitert Structured Data: Neue Signale fuer AI-generierte Inhalte und Diskussionen",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-structured-data-forum-qa-content-update-472574",
+      "type": "blog",
+      "tags": [
+        "structured-data",
+        "schema-markup",
+        "ai-friendliness",
+        "forum-seo",
+        "content-kennzeichnung"
+      ],
+      "path": "content/2026-03-27/google-structured-data-forum-qa-update.md",
+      "body": "## Kernaussagen\n- Google erweitert QAPage und DiscussionForumPosting um neue Properties\n- digitalSourceType signalisiert, ob Inhalte von AI (TrainedAlgorithmicMediaDigitalSource) oder Menschen stammen\n- commentCount und sharedContent verbessern die Darstellung von Threads und Zitaten\n- Ohne Kennzeichnung nimmt Google an, dass Inhalte menschlich erstellt sind\n- Aenderung betrifft Foren, Support-Communities, UGC-Plattformen und Q&A-Bereiche\n\n## Relevanz fuer Marketing\nDie Unterscheidung zwischen menschlichen und AI-generierten Inhalten wird technisch verankert. B2B-Unternehmen mit Community-Inhalten oder Support-Foren sollten ihr Schema-Markup aktualisieren, um Googles Verstaendnis ihrer Inhalte zu verbessern und in AI-Suche korrekt repraesentiert zu werden.\n\n## Post-Idee\nHook: \"Google will jetzt wissen, ob Dein Content von einem Menschen oder einer AI stammt. Und es gibt ein Schema-Tag dafuer.\"\nAngle: Was digitalSourceType fuer Deine Website bedeutet — und warum Du Dein Structured Data jetzt aktualisieren solltest."
+    },
+    {
+      "title": "Google Search Live geht global: AI-Suche per Sprache in 200+ Laendern",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-search-live-expands-globally-where-ai-mode-is-available-472706",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "google",
+        "voice-search",
+        "ai-mode",
+        "globalisierung"
+      ],
+      "path": "content/2026-03-27/google-search-live-global-expansion.md",
+      "body": "## Kernaussagen\n- Google Search Live ist ab sofort weltweit verfuegbar, ueberall wo AI Mode aktiv ist — ueber 200 Laender und Territorien\n- Angetrieben vom neuen Gemini 3.1 Flash Live Modell mit natuerlicherer, multilingualer Sprachinteraktion\n- Nutzer koennen per Kamera visuellen Kontext hinzufuegen und Folgefragen stellen\n- Antworten enthalten zwar Quellen-Links, aber die Wahrscheinlichkeit von Klicks sinkt drastisch\n- Suchverhalten verschiebt sich von getippten Queries zu gesprochenen AI-Konversationen\n\n## Relevanz fuer Marketing\nDie globale Ausdehnung von Search Live beschleunigt den Shift weg von klassischen Klick-basierten Suchergebnissen. Fuer B2B-Marketer bedeutet das: Inhalte muessen so strukturiert sein, dass sie von AI-Systemen als vertrauenswuerdige Quelle zitiert werden — nicht nur gerankt.\n\n## Post-Idee\nHook: \"Google hat Search Live auf 200+ Laender ausgerollt. Das aendert, wie Menschen Informationen finden — und wie Unternehmen gefunden werden.\"\nAngle: Was das konkret fuer Deine Content-Strategie bedeutet: weniger Keywords optimieren, mehr Konversations-faehige Inhalte bauen. Drei Dinge, die Du jetzt pruefen solltest."
+    },
+    {
+      "title": "Google March 2026 Core Update: Was sich aendert und was Du jetzt tun solltest",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-march-2026-core-update-rolling-out-now-472759",
+      "type": "blog",
+      "tags": [
+        "google-update",
+        "core-update",
+        "seo",
+        "content-strategie",
+        "rankings"
+      ],
+      "path": "content/2026-03-27/google-march-2026-core-update.md",
+      "body": "## Kernaussagen\n- Erstes Core Update 2026 — Rollout dauert bis zu 2 Wochen\n- Folgt auf das March 2026 Spam Update und das February 2026 Discover Update\n- Google betont: \"relevant, satisfying content from all types of sites\" — kein spezieller Recovery-Hebel\n- Laengste Pause zwischen Core Updates seit langem, obwohl haeufigere Updates erwartet wurden\n- Staerkste Erholungen kommen typischerweise erst mit dem naechsten Core Update\n\n## Relevanz fuer Marketing\nJedes Core Update ist ein Realitaets-Check fuer Content-Strategie. Wer auf helpful, people-first Content setzt, hat wenig zu befuerchten. Fuer B2B-Websites bedeutet das: Expertise zeigen, nicht Keywords stapeln.\n\n## Post-Idee\nHook: \"Google rollt das March 2026 Core Update aus. Erste Panik in 3... 2... 1...\"\nAngle: Gelassene Perspektive — was wirklich zaehlt (helpful content, E-E-A-T), was Zeitverschwendung ist (panisches Reagieren). Tipp: Jetzt ist der richtige Moment, Content-Qualitaet zu auditieren."
+    },
+    {
+      "title": "Google schickt mehr AI in einem Tag als andere in einem Quartal — der Plattformkrieg ist eroeffnet",
+      "date": "2026-03-27",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/explainer-articles/google-shipped-more-ai-in-one-day-than-most-companies-ship-in-a-quarter-heres-what-it-all-means-/",
+      "type": "blog",
+      "tags": [
+        "google",
+        "apple",
+        "ai-assistants",
+        "plattform-strategie",
+        "search-live"
+      ],
+      "path": "content/2026-03-27/google-ai-megadrop-platform-war.md",
+      "body": "## Kernaussagen\n- Google launchte an einem Tag: bestes Voice-Modell, Search Live global, Import bestehender AI-Daten in Gemini\n- Apple oeffnete Siri gleichzeitig fuer alle AI-Anbieter — direkter Gegenangriff\n- Der Plattformkrieg um den AI-Assistenten des Nutzers ist offiziell gestartet\n- Google setzt auf tiefe Integration ins eigene Oekosystem, Apple auf Offenheit\n- Wer den Default-Assistenten kontrolliert, kontrolliert die Entdeckung von Inhalten und Services\n\n## Relevanz fuer Marketing\nDer Kampf um den AI-Assistenten bestimmt, wie Nutzer kuenftig Produkte und Services entdecken. B2B-Marketer muessen verstehen, auf welchen Plattformen ihre Inhalte als Quelle fuer AI-Assistenten dienen — und wie sie dort sichtbar bleiben.\n\n## Post-Idee\nHook: \"Google hat an einem einzigen Tag mehr AI gelauncht als die meisten Unternehmen in einem Quartal. Und Apple hat gleichzeitig Siri fuer alle geoeffnet.\"\nAngle: Was der AI-Plattformkrieg fuer Deine Content-Strategie bedeutet — und warum der Default-Assistent der neue Default-Browser ist."
+    },
+    {
+      "title": "Google-Agent: Neuer User Agent macht AI-Agent-Traffic in Server-Logs sichtbar",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/google-agent-user-agent-472674",
+      "type": "blog",
+      "tags": [
+        "google-agent",
+        "ai-crawling",
+        "ai-friendliness",
+        "agentic-search",
+        "server-logs"
+      ],
+      "path": "content/2026-03-27/google-agent-user-agent-crawling.md",
+      "body": "## Kernaussagen\n- Google fuehrt den User Agent \"Google-Agent\" ein, der AI-Agent-Zugriffe identifiziert\n- Unterschied zu Googlebot: Google-Agent handelt nur auf direkte Nutzeranfragen, nicht automatisch\n- Einsatz bei experimentellen Tools wie Project Mariner — Agents browsen, bewerten und fuellen Formulare aus\n- IP-Ranges fuer Desktop und Mobile sind veroeffentlicht\n- Rollout laeuft ueber die naechsten Wochen schrittweise\n\n## Relevanz fuer Marketing\nErstmals koennen Marketer und Webmaster AI-Agent-Traffic von klassischem Crawler-Traffic unterscheiden. Das eroeffnet die Moeglichkeit, Agent-gestuetzte Conversions zu tracken und Websites gezielt fuer agentic Search zu optimieren.\n\n## Post-Idee\nHook: \"Google hat einen neuen Crawler — aber dieser besucht Deine Website nur, wenn ein Mensch ihn darum bittet.\"\nAngle: Was Google-Agent fuer Deine Analytics bedeutet und warum Du jetzt Deine Server-Logs pruefen solltest. Drei Action Items."
+    },
+    {
+      "title": "First-Party Data als Content-Goldgrube: 5 interne Quellen, die Dein Wettbewerber nicht hat",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/how-to-use-first-party-data-to-find-high-impact-content-ideas-472500",
+      "type": "blog",
+      "tags": [
+        "content-strategie",
+        "first-party-data",
+        "b2b-marketing",
+        "seo",
+        "differenzierung"
+      ],
+      "path": "content/2026-03-27/first-party-data-content-strategie.md",
+      "body": "## Kernaussagen\n- Alle nutzen dieselben SEO-Tools — das fuehrt zu einer Content-Echokammer mit austauschbaren Inhalten\n- 5 Goldgruben fuer proprietaere Content-Ideen: Site-Search, Sales-Calls, CRM-Daten, Support-Tickets, E-Mail-Replies\n- First-Party Data ist vertraulich, real und hat keinen Wettbewerbs-Overlap\n- Die exakte Sprache von Kunden in Sales-Calls liefert bessere Keywords als jedes Tool\n- Support-Tickets zeigen Content-Luecken, die direkt auf Conversion einzahlen\n\n## Relevanz fuer Marketing\nIn einer Welt, in der AI massenhaft generischen Content produziert, wird proprietaeres Wissen zum entscheidenden Differenzierungsmerkmal. B2B-Marketer, die interne Datenquellen systematisch anzapfen, schaffen Inhalte, die weder AI noch Wettbewerber replizieren koennen.\n\n## Post-Idee\nHook: \"Du nutzt Semrush? Dein Wettbewerber auch. Und ihr schreibt beide denselben Content.\"\nAngle: Fuenf interne Datenquellen, die bessere Content-Ideen liefern als jedes SEO-Tool — und die kein Wettbewerber kopieren kann."
+    },
+    {
+      "title": "10 Wege, Codex zu nutzen — ohne eine Zeile Code zu schreiben",
+      "date": "2026-03-27",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/explainer-articles/10-ways-to-use-codex-that-have-nothing-to-do-with-coding/",
+      "type": "blog",
+      "tags": [
+        "codex",
+        "ai-tools",
+        "produktivitaet",
+        "marketing-automation",
+        "agents"
+      ],
+      "path": "content/2026-03-27/codex-non-coding-use-cases.md",
+      "body": "## Kernaussagen\n- OpenAI Codex ist laengst kein reines Developer-Tool mehr\n- Einsatzgebiete: Drafts schreiben, Projektplaene erstellen, wiederkehrende Automationen bauen\n- Reusable Skills machen Codex zu einem persoenlichen Automations-Layer\n- Besonders stark fuer Non-Engineers, die weniger Busywork und mehr Hebelwirkung wollen\n- Die Grenze zwischen \"Coding-Tool\" und \"Produktivitaets-Agent\" verschwimmt\n\n## Relevanz fuer Marketing\nMarketing-Teams koennen Codex nutzen, um repetitive Aufgaben wie Reporting-Vorlagen, Content-Outlines oder Kampagnen-Briefings zu automatisieren — ohne technisches Wissen. Das senkt die Einstiegshuerde fuer AI-gestuetzte Workflows erheblich.\n\n## Post-Idee\nHook: \"Du denkst, Codex ist nur fuer Entwickler? Falsch. Hier sind 10 Wege, wie Du es ohne eine Zeile Code nutzen kannst.\"\nAngle: Drei konkrete Marketing-Workflows, die Du heute mit Codex automatisieren kannst — von Content-Drafts bis Reporting."
+    },
+    {
+      "title": "ChatGPT-Ads: Jede fuenfte Frage loest Werbung aus — was das fuer Marketing bedeutet",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/chatgpt-ads-are-showing-up-alot-472791",
+      "type": "blog",
+      "tags": [
+        "ai-ads",
+        "chatgpt",
+        "openai",
+        "monetarisierung",
+        "ai-search"
+      ],
+      "path": "content/2026-03-27/chatgpt-ads-monetarisierung.md",
+      "body": "## Kernaussagen\n- Bei 500 getesteten Fragen auf dem Free-Tier loeste jede fuenfte eine Anzeige aus — als Website-Link-Button am Ende der Antwort\n- Targeting basiert auf Frage-Thema, Chat-Verlauf und gespeichertem User-Memory\n- \"Poaching\"-Dynamik: Wer nach DoorDash fragt, bekommt ggf. Competitor-Ads — bekannt aus Search, jetzt in AI\n- Weder Gemini noch Claude zeigen aktuell Ads; OpenAI ist Pionier eines neuen Werbeformats\n- Sam Altman nannte Ads 2024 noch \"a last resort\" — jetzt Expansion nach Kanada, Australien, Neuseeland\n\n## Relevanz fuer Marketing\nEin voellig neues Inventar fuer B2B-Marketer entsteht: ChatGPT-Ads. Die Kombination aus Konversations-Kontext und Memory-basiertem Targeting ist praeziser als klassische Search Ads, aber die Balance zwischen Nutzererlebnis und Monetarisierung wird entscheidend.\n\n## Post-Idee\nHook: \"Jede 5. Frage an ChatGPT loest jetzt eine Ad aus. Und ja — Competitor-Poaching funktioniert auch hier.\"\nAngle: Das neue Werbeformat analysieren, Chancen fuer B2B-Brands aufzeigen, warnen vor blindem Vertrauen in AI-Neutralitaet. Frage an die Community: Wuerdest Du ChatGPT-Ads schalten?"
+    },
+    {
+      "title": "Automatisierter Traffic waechst 8x schneller als menschlicher — was das fuer Content bedeutet",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/automated-traffic-growing-faster-than-human-traffic-report-472681",
+      "type": "blog",
+      "tags": [
+        "ai-traffic",
+        "agents",
+        "ai-search",
+        "content-strategie",
+        "ai-friendliness"
+      ],
+      "path": "content/2026-03-27/automated-traffic-8x-faster-humans.md",
+      "body": "## Kernaussagen\n- Automatisierter Traffic wuchs 2025 um 23,5% YoY — 8x schneller als menschlicher Traffic (+3,1%)\n- AI-getriebener Traffic stieg um 187% im Monatsschnitt, Agent-Traffic um fast 8.000%\n- 77% der Agent-Aktivitaet findet auf Produkt- und Suchseiten statt\n- AI-Agents navigieren Funnels, loggen sich ein und fuehren Transaktionen durch\n- Cloudflare-CEO prognostiziert: Bots koennten menschliche Web-Nutzung bis 2027 uebertreffen\n\n## Relevanz fuer Marketing\nContent-Optimierung bedeutet nicht mehr nur \"fuer Menschen schreiben\". Wer AI-Agents als Traffic-Quelle ignoriert, verpasst einen exponentiell wachsenden Kanal. Websites muessen maschinenlesbar, strukturiert und agent-freundlich sein.\n\n## Post-Idee\nHook: \"Automatisierter Traffic waechst 8x schneller als menschlicher. Und AI-Agents kaufen bereits ein.\"\nAngle: Drei Zahlen aus dem HUMAN Security Report, die zeigen, warum AI-Friendliness keine Kuer mehr ist — sondern Pflicht fuer jede Website."
+    },
+    {
+      "title": "Die Trust Wall: Warum Vertrauen der groesste Wachstumshebel fuer AI wird",
+      "date": "2026-03-27",
+      "source": "a16z",
+      "source_url": "https://www.a16z.news/p/the-sovereign-wall-why-ais-next-billion",
+      "type": "blog",
+      "tags": [
+        "ai-trust",
+        "globalisierung",
+        "growth-strategie",
+        "b2b",
+        "adoption"
+      ],
+      "path": "content/2026-03-27/ai-trust-wall-global-growth.md",
+      "body": "## Kernaussagen\n- Die naechste Milliarde AI-Nutzer kommt nur ueber Vertrauens-Netzwerke, nicht ueber reine Feature-Ueberlegenheit\n- \"Trust Tax\" — lokale Partner und kulturelle Uebersetzer muessen das Risiko absorbieren, bevor Nutzer sich engagieren\n- Institutionelles Vertrauen und kulturelle Erlaubnis sind untrennbar vom Produkt selbst\n- Eine einzige wahrgenommene Vertrauensverletzung kann massenhafte Nutzermigration ausloesen\n- Google setzt auf Embedded Trust via bestehendes Oekosystem, waehrend Newcomer auf Trust Networks angewiesen sind\n\n## Relevanz fuer Marketing\nFuer B2B-Unternehmen, die AI-Produkte vermarkten oder AI in ihre Kommunikation integrieren, ist Vertrauen kein Soft-Faktor mehr — es ist die zentrale Wachstumsmetrik. Wer Trust-Signale (Transparenz, Datenschutz, lokale Relevanz) nicht aktiv kommuniziert, verliert gegen Wettbewerber, die es tun.\n\n## Post-Idee\nHook: \"Vertrauen ist kein Nice-to-have mehr. Es ist die einzige Skalierungsstrategie, die bei AI funktioniert.\"\nAngle: Was YouTube's internationale Expansion ueber AI-Adoption lehrt — und warum B2B-Marketer jetzt Trust-Signale in jeden Touchpoint einbauen sollten."
+    },
+    {
+      "title": "17 AI-Skills die Leser sich gewuenscht haben — praktisch und sofort nutzbar",
+      "date": "2026-03-27",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/ai-news-digests/ai-skill-of-the-day-digest-march-2026-part-3-17-reader-requested-skills-/",
+      "type": "blog",
+      "tags": [
+        "ai-skills",
+        "prompting",
+        "produktivitaet",
+        "content-strategie",
+        "praktisch"
+      ],
+      "path": "content/2026-03-27/ai-skills-digest-praktische-anwendung.md",
+      "body": "## Kernaussagen\n- 17 praktische AI-Skills basierend auf Reader-Requests — getestet und aufbereitet\n- Themen: Company Research Prompts, Self-Improving Prompts, Multi-Agent Workflows, Thinking Modes\n- Fokus auf sofortige Anwendbarkeit statt theoretischer Frameworks\n- Claude Code Skills und Open-Source-Modelle als Highlights\n- Community-getrieben: Die besten Skills kamen aus Leser-Feedback\n\n## Relevanz fuer Marketing\nEine Goldgrube fuer Content-Strategen: Jeder dieser 17 Skills laesst sich als eigener LinkedIn-Post, Workshop-Modul oder Client-Tipp verwerten. Zeigt auch, wie Community-driven Content funktioniert.\n\n## Post-Idee\nHook: \"Die 3 AI-Skills die meine Arbeitswoche am meisten veraendert haben — aus einer Liste von 17.\"\nAngle: 3 persoenliche Favoriten rauspicken, konkret zeigen wie man sie einsetzt. CTA: \"Welchen AI-Skill hast Du diese Woche gelernt?\""
+    },
+    {
+      "title": "AI-Forward Campaigns: Warum B2B-Wachstum Geduld braucht — aber dann explodiert",
+      "date": "2026-03-27",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/ai-forward-campaigns-b2b-growth-472675",
+      "type": "blog",
+      "tags": [
+        "b2b-growth",
+        "performance-max",
+        "google-ads",
+        "ai-campaigns",
+        "demand-gen"
+      ],
+      "path": "content/2026-03-27/ai-forward-campaigns-b2b.md",
+      "body": "## Kernaussagen\n- Reine Brand/Non-Brand-Keyword-Strategien limitieren B2B-Wachstum — Entdeckung passiert auf Reddit, ChatGPT, LinkedIn, YouTube\n- Performance Max und Demand Gen erreichen Zielgruppen kanalueebergreifend waehrend der Research-Phase\n- Das 4S+A-Framework: Search, Scroll, Stream, Shop + Ask (AI-Tools)\n- Bei einem Life-Science-Kunden dauerte es fast ein Jahr, bis der PMax-Impact sichtbar wurde\n- Keywords werden nicht aufgegeben — sie werden als Signals smarter eingesetzt\n\n## Relevanz fuer Marketing\nFuer B2B mit langen Sales-Cycles ist die Botschaft klar: Multi-Channel AI-Kampagnen bauen Trust auf, bevor die Conversion passiert. Wer nur auf Keywords setzt, verpasst 80% der Customer Journey.\n\n## Post-Idee\nHook: \"Deine Google Ads Strategie besteht nur aus Brand + Non-Brand Keywords? Dann verpasst Du den Punkt.\"\nAngle: Das 4S+A-Framework vorstellen, eigene Erfahrung mit B2B-Cycles einbringen. Provokant: \"Die meisten B2B-Marketer optimieren den letzten Klick — nicht die ersten 6 Monate Trust-Building.\""
+    },
+    {
+      "title": "Agent-Native werden: Was Dan Shipper ueber Vibe Coding und Agent-Architektur gelernt hat",
+      "date": "2026-03-27",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai/the-neuron-ai-explained-podcast/how-to-become-agent-native-dan-shipper-built-a-viral-app-between-meetings-then-it-broke-heres-what-he-learned/",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "vibe-coding",
+        "architektur",
+        "product-development",
+        "content-strategie"
+      ],
+      "path": "content/2026-03-27/agent-native-dan-shipper.md",
+      "body": "## Kernaussagen\n- Dan Shipper (CEO Every) baute eine virale App zwischen Meetings — die dann zusammenbrach\n- \"Agent-native\" Architektur erfordert andere Design-Prinzipien als klassische Software\n- Compound Engineering: AI-Agents schichten sich auf, Fehler potenzieren sich\n- Vibe Coding erzeugt schnelle Ergebnisse, aber technische Schulden akkumulieren unsichtbar\n- Der Uebergang von Prototyp zu Produkt braucht bewusste Architektur-Entscheidungen\n\n## Relevanz fuer Marketing\nMarketer, die AI-Tools und Agents in ihre Workflows integrieren, stehen vor derselben Herausforderung: Schnelle Ergebnisse vs. nachhaltige Systeme. Wer Agent-native denkt, baut Content-Pipelines und Marketing-Automationen, die skalieren statt kollabieren.\n\n## Post-Idee\nHook: \"Dan Shipper hat eine App zwischen zwei Meetings gebaut. Dann ist sie explodiert — im schlechten Sinne.\"\nAngle: Was Marketing-Teams von Agent-native Architektur lernen koennen: Warum Deine AI-Automationen eine Architektur brauchen, nicht nur Prompts."
+    },
+    {
+      "title": "Agentic Engineering: Warum Schnelligkeit allein gefaehrlich ist",
+      "date": "2026-03-25",
+      "source": "Simon Willison",
+      "source_url": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "engineering",
+        "strategy",
+        "cognitive-debt"
+      ],
+      "path": "content/2026-03-26/slow-down-agent-engineering.md",
+      "body": "## Kernaussagen\n- Mario Zechner (Erfinder des Pi Agent Frameworks / OpenClaw): \"Wir haben jede Disziplin aufgegeben fuer eine Art Sucht — moeglichst viel Code in kuerzester Zeit\"\n- Agent-Fehler akkumulieren schneller als menschliche Fehler — kein Bottleneck mehr\n- \"Cognitive Debt\" ist real: Die Codebase entwickelt sich schneller als unsere Faehigkeit, sie zu verstehen\n- Empfehlung: Limits setzen fuer Agent-generierten Code, Architektur-Entscheidungen selbst treffen\n\n## Relevanz fuer Marketing\nDirekt uebertragbar auf Marketing-Automation: Wer blind AI-Agents auf Kampagnen, Content und Outreach loslauft, ohne strategische Kontrolle, baut \"Cognitive Debt\" auf. Speed ohne Strategie = Chaos. Gilt fuer Content-Produktion, Lead-Nurturing, jede Form von AI-Automation.\n\n## Post-Idee\nHook: \"AI-Agents machen dich 10x schneller. Und 10x schneller in die falsche Richtung.\"\nAngle: Parallele ziehen zwischen Software-Engineering und Marketing. Wer alles automatisiert ohne zu verstehen was passiert, verliert die Kontrolle. Konkretes Beispiel: 50 AI-generierte Outreach-Mails pro Tag vs. 5 strategische. Takeaway: Speed ist kein Vorteil ohne Richtung."
+    },
+    {
+      "title": "Schema Markup und AI-Suche: Was wirklich stimmt",
+      "date": "2026-03-25",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/schema-markup-ai-search-without-hype",
+      "type": "blog",
+      "tags": [
+        "schema",
+        "structured-data",
+        "ai-search",
+        "seo",
+        "technical"
+      ],
+      "path": "content/2026-03-26/schema-markup-ai-search-reality.md",
+      "body": "## Kernaussagen\n- Behauptung \"Schema Markup verdreifacht AI-Zitationen\" ist uebertrieben\n- Die Evidenz ist deutlich nuancierter als der Hype suggeriert\n- Schema hilft bei Disambiguierung (wer/was/wo) — nicht als direkter Ranking-Faktor\n- Fuer AI-Suche ist Schema ein Hygienefaktor, kein Gamechanger\n- Wichtiger: Content-Qualitaet und Struktur schlagen technische Tricks\n\n## Relevanz fuer Marketing\nWichtige Einordnung fuer B2B-Marketer die in AI-Optimierung investieren. Schema Markup ist sinnvoll als Grundlage (Disambiguierung, Entity-Erkennung), aber kein Wundermittel. Fokus sollte auf Content-Qualitaet liegen, nicht auf technischen SEO-Hacks.\n\n## Post-Idee\nHook: \"Schema Markup verdreifacht deine AI-Sichtbarkeit. Oder doch nicht?\"\nAngle: Entlarve den Hype. Was Schema Markup wirklich fuer AI-Suche tut — und was nicht. Pragmatischer Ansatz: Schema als Hygienefaktor ja, aber Content-Struktur und Fakten-Dichte sind wichtiger. Fuer B2B-Entscheider die wissen wollen wo sie ihr Budget investieren sollten."
+    },
+    {
+      "title": "OpenAI Model Spec: Wie AI-Verhalten definiert wird",
+      "date": "2026-03-25",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "type": "blog",
+      "tags": [
+        "openai",
+        "ai-safety",
+        "trust",
+        "transparency"
+      ],
+      "path": "content/2026-03-26/openai-model-spec-behavior.md",
+      "body": "## Kernaussagen\n- OpenAI veroeffentlicht die \"Model Spec\" — ein oeffentliches Framework fuer AI-Verhalten\n- Balanciert Safety, User-Freiheit und Accountability\n- Definiert wie AI-Modelle sich in verschiedenen Szenarien verhalten sollen\n- Transparenz-Signal: OpenAI macht die Regeln oeffentlich, nach denen ChatGPT handelt\n\n## Relevanz fuer Marketing\nFuer B2B-Entscheider relevant: Vertrauen in AI-Tools haengt davon ab, wie transparent die Anbieter sind. Wer AI im Marketing einsetzt, sollte verstehen nach welchen Regeln die Tools arbeiten. Auch relevant fuer AI-Governance in Unternehmen.\n\n## Post-Idee\nHook: \"Wuesstest du, nach welchen Regeln dein AI-Tool Entscheidungen trifft?\"\nAngle: OpenAI hat gerade die \"Spielregeln\" fuer ChatGPT veroeffentlicht. Warum das fuer jeden relevant ist, der AI im Marketing nutzt. Vertrauen entsteht durch Transparenz, nicht durch Versprechen."
+    },
+    {
+      "title": "OpenAI Codex 101: Vom Code-Modell zum vollstaendigen Coding-Agent",
+      "date": "2026-03-25",
+      "source": "The Neuron",
+      "source_url": "https://www.theneuron.ai",
+      "type": "blog",
+      "tags": [
+        "openai",
+        "codex",
+        "agents",
+        "developer-tools",
+        "automation"
+      ],
+      "path": "content/2026-03-26/openai-codex-coding-agent.md",
+      "body": "## Kernaussagen\n- Codex ist nicht nur ein Code-Modell — es ist ein vollstaendiger Agent\n- Kann Repos inspizieren, Befehle ausfuehren, Aenderungen reviewen, ueber mehrere Oberflaechen arbeiten\n- Schritt von \"AI schreibt Code\" zu \"AI baut Software eigenstaendig\"\n- Beginner-Guide zeigt wie Codex fuer grundlegende Aufgaben eingesetzt wird\n\n## Relevanz fuer Marketing\nIndirekt relevant: Coding-Agents wie Codex senken die Einstiegshuerde fuer technische Loesungen massiv. Marketing-Teams koennen kuenftig eigene Tools, Dashboards, Integrationen bauen lassen — ohne Entwickler-Team. Demokratisierung von Marketing-Tech.\n\n## Post-Idee\nHook: \"Du brauchst keinen Entwickler mehr. Du brauchst den richtigen Prompt.\"\nAngle: OpenAIs Codex zeigt wohin die Reise geht — AI-Agents die nicht nur Code schreiben, sondern ganze Software-Projekte eigenstaendig umsetzen. Was das fuer Marketing-Teams bedeutet: Custom Dashboards, Automationen, Integrationen — in Minuten statt Monaten."
+    },
+    {
+      "title": "Vier CEOs ueber die Zukunft der AI: CoreWeave, Perplexity & mehr",
+      "date": "2026-03-24",
+      "source": "All-In Podcast (YouTube)",
+      "source_url": "https://www.youtube.com/watch?v=TODO",
+      "type": "youtube",
+      "tags": [
+        "perplexity",
+        "coreweave",
+        "infrastructure",
+        "strategy",
+        "ceo"
+      ],
+      "path": "content/2026-03-26/four-ceos-future-ai.md",
+      "body": "## Kernaussagen\n- CEOs von CoreWeave, Perplexity und zwei weiteren AI-Unternehmen diskutieren Infrastruktur, Skalierung und Geschaeftsmodelle\n- CoreWeave: GPU-Infrastruktur als Backbone der AI-Revolution, trotz Short-Seller-Kritik\n- Perplexity: Search wird komplett neu definiert — von Links zu Antworten\n- Gemeinsamer Tenor: Wir sind erst am Anfang, aber die Geschwindigkeit beschleunigt sich\n\n## Relevanz fuer Marketing\nStrategische Einordnung: Wenn die CEOs der AI-Infrastruktur-Unternehmen sagen \"wir sind erst am Anfang\", dann muessen Marketing-Teams JETZT die Grundlagen legen. AI-Friendliness, strukturierte Daten, Agent-Optimierung — wer das in 2 Jahren macht, ist zu spaet.\n\n## Post-Idee\nHook: \"Die CEOs von Perplexity und CoreWeave sind sich einig: Wir sind bei AI erst am Anfang.\"\nAngle: Was das fuer B2B-Marketing bedeutet. Wenn Search sich fundamental aendert, wenn Agents Kaufentscheidungen treffen — dann reicht SEO allein nicht mehr. Drei konkrete Schritte die Marketing-Teams JETZT machen sollten."
+    },
+    {
+      "title": "Claude Code Auto Mode: AI-Agent mit eingebauten Sicherheitsschranken",
+      "date": "2026-03-24",
+      "source": "Simon Willison",
+      "source_url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "claude",
+        "agents",
+        "safety",
+        "developer-tools"
+      ],
+      "path": "content/2026-03-26/claude-code-auto-mode.md",
+      "body": "## Kernaussagen\n- Anthropic launcht \"Auto Mode\" fuer Claude Code — AI trifft selbst Entscheidungen, mit Safeguards\n- Ein separates Classifier-Modell (Sonnet 4.6) prueft JEDE Aktion bevor sie ausgefuehrt wird\n- Blockiert: Scope-Eskalation, unbekannte Infrastruktur, feindliche Inhalte in Dateien\n- Detaillierte Allow/Deny-Listen: Test-Artifacts erlaubt, Git Force-Push blockiert, Dependencies nur aus Manifest\n\n## Relevanz fuer Marketing\nZeigt wohin AI-Tools sich entwickeln: Vom \"Ich frage, AI antwortet\" zum \"AI handelt eigenstaendig mit Sicherheitsnetz\". Fuer Marketing-Teams die AI-Agents einsetzen wollen, ist das die Blaupause: Autonomie + Kontrolle. Nicht blindes Vertrauen, sondern definierte Grenzen.\n\n## Post-Idee\nHook: \"Der groesste Fehler bei AI-Automation? Alles oder nichts.\"\nAngle: Anthropics neuer Ansatz zeigt wie es richtig geht — nicht \"AI darf alles\" oder \"AI darf nichts\", sondern granulare Kontrolle. Uebertragbar auf Marketing: Welche Aufgaben kann AI autonom erledigen? Wo braucht es einen Menschen? Framework fuer Marketing-Entscheider."
+    },
+    {
+      "title": "Anthropic-Studie: Was 81.000 Menschen von AI wollen",
+      "date": "2026-03-26",
+      "source": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news",
+      "type": "blog",
+      "tags": [
+        "anthropic",
+        "user-research",
+        "ai-adoption",
+        "trust"
+      ],
+      "path": "content/2026-03-26/anthropic-81000-people-want-from-ai.md",
+      "body": "## Kernaussagen\n- Anthropic hat 81.000 Menschen befragt was sie von AI erwarten\n- Groesste Nutzerbefragung eines AI-Anbieters bisher\n- Fokus auf: Vertrauen, Transparenz, Kontrolle, Nuetzlichkeit\n- Zeigt Gap zwischen dem was AI-Unternehmen bauen und was Nutzer tatsaechlich wollen\n\n## Relevanz fuer Marketing\nDirekt relevant: Wenn 81.000 Menschen sagen was sie von AI erwarten, ist das eine Goldgrube fuer B2B-Positionierung. Vertrauen und Transparenz stehen ganz oben — genau das was viele AI-Marketing-Tools noch nicht liefern. Chance fuer Unternehmen die sich als vertrauenswuerdiger AI-Partner positionieren.\n\n## Post-Idee\nHook: \"81.000 Menschen haben gesagt was sie von KI wollen. Die Antwort ueberrascht.\"\nAngle: Nicht \"schneller\" oder \"billiger\" steht ganz oben — sondern Vertrauen und Kontrolle. Was das fuer B2B-Unternehmen bedeutet die AI-Loesungen verkaufen oder einsetzen. Takeaway: Transparenz ist der neue Wettbewerbsvorteil."
+    },
+    {
+      "title": "All-In Podcast: AI baut in Sekunden ein Custom CRM",
+      "date": "2026-03-25",
+      "source": "All-In Podcast (YouTube)",
+      "source_url": "https://www.youtube.com/watch?v=U2O_Yg3Mjp8",
+      "type": "youtube",
+      "tags": [
+        "agents",
+        "crm",
+        "automation",
+        "sales",
+        "all-in"
+      ],
+      "path": "content/2026-03-26/all-in-ai-crm-seconds.md",
+      "body": "## Kernaussagen\n- Live-Demo: AI-Agent baut ein vollstaendiges Custom CRM in wenigen Sekunden\n- Kein Code, kein Setup — nur natuerliche Sprache\n- Diskussion ueber die Zukunft von SaaS: Warum fertige Software kaufen wenn AI dir massgeschneiderte Tools baut?\n- Implikation: Standardsoftware wird durch AI-generierte, individuelle Loesungen ersetzt\n\n## Relevanz fuer Marketing\nDirekt relevant fuer Sales & Marketing Teams: CRM-Systeme, Dashboards, Reporting-Tools — alles was heute Wochen dauert, kann AI in Minuten bauen. Die Frage ist nicht ob, sondern wann. Und: Was passiert mit den SaaS-Anbietern die gerade teure CRM-Lizenzen verkaufen?\n\n## Post-Idee\nHook: \"Wir bezahlen 50.000 Euro im Jahr fuer ein CRM. AI baut eins in 30 Sekunden.\"\nAngle: Nicht als \"SaaS ist tot\" verkaufen, sondern: Die Zukunft gehoert hybriden Loesungen. AI baut die Grundstruktur, Experten konfigurieren die Strategie. Fuer B2B: Weniger Tool-Kosten, mehr Fokus auf Strategie."
+    },
+    {
+      "title": "Playbook: So schreibst du Content den AI-Suchmaschinen verstehen",
+      "date": "2026-03-25",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/how-to-write-for-ai-search-machine-readable-content",
+      "type": "blog",
+      "tags": [
+        "ai-friendliness",
+        "content",
+        "seo",
+        "ai-search",
+        "copywriting"
+      ],
+      "path": "content/2026-03-26/ai-search-playbook-machine-readable.md",
+      "body": "## Kernaussagen\n- Keyword-Stuffing ist endgueltig tot — AI-Suche arbeitet mit \"proposition-based retrieval\"\n- Content muss in eigenstaendigen, hochdichten Konzeptbloecken geschrieben werden\n- Jeder Absatz sollte eine klare Aussage enthalten die fuer sich allein stehen kann\n- AI-Crawler extrahieren Fakten, nicht Keywords — \"Grounding\" ist der neue Rankingfaktor\n- Praktisches Playbook fuer AI-freundliches Copywriting\n\n## Relevanz fuer Marketing\nKern-Thema. Jeder B2B-Marketer der Content produziert muss verstehen wie AI-Suchmaschinen Content lesen. Die Regeln haben sich fundamental geaendert: Nicht mehr \"wie finde ich die richtigen Keywords\" sondern \"wie strukturiere ich Wissen so dass AI es extrahieren kann\".\n\n## Post-Idee\nHook: \"90% aller B2B-Websites schreiben Content fuer eine Suchmaschine die es so nicht mehr gibt.\"\nAngle: Die Regeln haben sich geaendert. AI-Suche liest keine Keywords — sie extrahiert Fakten. Drei konkrete Regeln fuer AI-freundlichen Content: 1) Ein Fakt pro Absatz 2) Eigenstaendige Aussagen 3) Strukturierte Daten. Mit Vorher/Nachher-Beispiel."
+    },
+    {
+      "title": "AI Hype Index: Agents gehen viral, AI geht in den Krieg",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "trends",
+        "hype",
+        "openai",
+        "anthropic"
+      ],
+      "path": "content/2026-03-26/ai-hype-index-agents-go-viral.md",
+      "body": "## Kernaussagen\n- OpenAI hat den OpenClaw-Entwickler eingestellt — AI-Agents die viral gehen sind das neue Recruiting-Tool\n- Meta kaufte Moltbook — AI-Agents die ueber Existenz philosophieren und neue Religionen erfinden\n- RentAHuman: Bots stellen Menschen ein um CBD-Gummis zu liefern — die Zukunft ist nicht \"AI nimmt deinen Job\" sondern \"AI wird dein Chef\"\n- Anthropic (Claude) im Konflikt mit Pentagon ueber Waffeneinsatz, OpenAI springt ein\n\n## Relevanz fuer Marketing\nZeigt den Zeitgeist: AI-Agents sind nicht mehr nur Tools — sie werden zu eigenstaendigen Akteuren mit eigener \"Persoenlichkeit\". Fuer Marketing bedeutet das: Agent-Interaktionen werden zum neuen Touchpoint. Brands muessen sich fragen: Wie interagiert mein Unternehmen mit AI-Agents?\n\n## Post-Idee\nHook: \"Die Zukunft ist nicht 'AI nimmt deinen Job'. Die Zukunft ist: AI wird dein Chef.\"\nAngle: RentAHuman als absurdes aber reales Beispiel. Was passiert wenn AI-Agents nicht nur suchen sondern handeln — buchen, kaufen, einstellen? Und was bedeutet das fuer B2B-Unternehmen die noch nicht mal eine llms.txt haben?"
+    },
+    {
+      "title": "Studie: Welche Content-Formate AI-Suchmaschinen am meisten zitieren",
+      "date": "2026-03-25",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com/ai-citations-listicles-articles-product-pages-study",
+      "type": "blog",
+      "tags": [
+        "ai-search",
+        "content-format",
+        "citations",
+        "data",
+        "study"
+      ],
+      "path": "content/2026-03-26/ai-citations-listicles-study.md",
+      "body": "## Kernaussagen\n- Wix Studio AI Search Lab: 75.000 AI-Antworten und 1 Mio+ Zitationen analysiert (ChatGPT, Google AI Mode, Perplexity)\n- Listicles fuehren mit 21,9% aller Zitationen\n- Artikel: 16,7%, Produktseiten: 13,7%\n- Diese drei Formate machen 52% aller AI-Zitationen aus\n- Artikel dominieren bei informationellen Anfragen, Produktseiten bei transaktionalen\n\n## Relevanz fuer Marketing\nHarte Daten fuer Content-Strategie. Wer von AI-Suchmaschinen zitiert werden will, braucht: Listicles (Vergleiche, Top-Listen), fundierte Artikel und gut strukturierte Produktseiten. Kein Zufall — das sind genau die Formate die klare, extrahierbare Fakten liefern.\n\n## Post-Idee\nHook: \"52% aller AI-Zitationen kommen aus nur 3 Content-Formaten.\"\nAngle: Neue Studie mit 1 Mio Datenpunkten zeigt was ChatGPT, Perplexity und Google AI Mode wirklich zitieren. Die Top 3: Listicles, Artikel, Produktseiten. Was das fuer deine Content-Strategie bedeutet — mit konkreten Zahlen. Takeaway: Weniger Content, aber im richtigen Format."
+    },
+    {
+      "title": "Agentic Commerce: Warum schlechte Daten AI-Agents killen",
+      "date": "2026-03-25",
+      "source": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "type": "blog",
+      "tags": [
+        "agents",
+        "commerce",
+        "data-quality",
+        "b2b"
+      ],
+      "path": "content/2026-03-26/agentic-commerce-trust-data.md",
+      "body": "## Kernaussagen\n- Agentic Commerce fuegt dem Markt einen dritten Teilnehmer hinzu: den AI-Agent, der im Auftrag des Kaeufers handelt\n- \"Good enough\" Daten reichen nicht mehr — Agents brauchen nahezu perfekte Daten, weil kein Mensch mehr gegencheckt\n- Master Data Management (MDM) wird zur Vertrauensschicht: Wer ist der Agent? Was darf er? Wer haftet?\n- Beispiel: Ein Agent muss wissen ob \"Delta\" die Airline oder der Wasserhahn-Hersteller ist — Menschen koennen das, Agents nicht\n\n## Relevanz fuer Marketing\nRiesig. Wenn AI-Agents Kaufentscheidungen treffen, muessen B2B-Unternehmen ihre Daten maschinenlesbar und eindeutig machen. Produktdaten, Preise, Unternehmensinformationen — alles muss fuer Agents optimiert sein. Wer das nicht tut, wird von Agents uebergangen.\n\n## Post-Idee\nHook: \"Dein naechster Kunde ist kein Mensch. Es ist ein AI-Agent.\"\nAngle: Die meisten B2B-Websites sind fuer Menschen gebaut. Aber wenn 94% der B2B-Kaeufer KI nutzen, muessen deine Daten auch fuer Maschinen funktionieren. Schlechte Produktdaten = unsichtbar fuer Agents. Konkretes Beispiel mit \"Delta\"-Problem."
+    }
+  ]
+}
