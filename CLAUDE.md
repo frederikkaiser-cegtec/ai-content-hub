@@ -10,6 +10,8 @@ cd /c/Users/frede/Projects/ai-content-hub
 rm -f scripts/last_crawl.json
 python scripts/crawl_rss.py
 python scripts/crawl_youtube.py
+python scripts/crawl_trends.py || true   # best-effort, pytrends 429't haeufig — kein Abbruch
+python scripts/crawl_reddit.py    # Customer-Voice extern (top-of-week aus 7 Subs)
 ```
 
 ### Schritt 2: Analyse & Filterung
@@ -45,7 +47,7 @@ Hook + Angle fuer LinkedIn Post (Persona: Frederik Kaiser, B2B Marketing + KI St
 ### Schritt 4: Feed & Push
 ```bash
 python scripts/generate_feed.py     # erzeugt feed.xml + index.json
-git add content/ feed.xml index.json
+git add content/ feed.xml index.json trends.json reddit.json
 git commit -m "content: [Anzahl] neue Summaries — [Themen-Stichworte]"
 git push origin main
 ```

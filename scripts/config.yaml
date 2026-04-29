@@ -49,6 +49,10 @@ rss_feeds:
     url: https://blog.hubspot.com/marketing/rss.xml
     tags: [b2b, marketing, content]
 
+  - name: Hacker News (100+ points)
+    url: https://hnrss.org/frontpage?points=100
+    tags: [trends, hn, signal]
+
 website_sources:
   - name: Anthropic News
     url: https://www.anthropic.com/news
@@ -85,6 +89,48 @@ website_sources:
   - name: LinkedIn Marketing Solutions Blog
     url: https://www.linkedin.com/business/marketing/blog
     tags: [linkedin, b2b, marketing]
+
+  # Competitor / Adjacent B2B-GTM blogs (signal source, not content source)
+  - name: Apollo Blog
+    url: https://www.apollo.io/blog
+    tags: [competitor, outbound, sales-intelligence]
+
+  - name: Clay Blog
+    url: https://www.clay.com/blog
+    tags: [competitor, enrichment, outbound]
+
+  - name: Gong Blog
+    url: https://www.gong.io/blog
+    tags: [competitor, sales, revenue-intelligence]
+
+  - name: Lavender Blog
+    url: https://www.lavender.ai/blog
+    tags: [competitor, email, outbound]
+
+  - name: Lemlist Blog
+    url: https://www.lemlist.com/blog
+    tags: [competitor, email, outbound]
+
+  - name: Cognism Blog
+    url: https://www.cognism.com/blog
+    tags: [competitor, sales-intelligence, b2b]
+
+  - name: Smartlead Blog
+    url: https://www.smartlead.ai/blog
+    tags: [competitor, email, outbound]
+
+  - name: Outreach Blog
+    url: https://www.outreach.io/resources/blog
+    tags: [competitor, sales-engagement]
+
+  - name: Reply.io Blog
+    url: https://reply.io/blog
+    tags: [competitor, email, outbound]
+
+  # Trend-Signals
+  - name: Exploding Topics
+    url: https://explodingtopics.com/blog
+    tags: [trends, signal]
 
 youtube_channels:
   - name: Matt Wolfe
